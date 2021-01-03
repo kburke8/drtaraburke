@@ -15,14 +15,15 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+baseurl: "/drtaraburke" # the subpath of your site, e.g. /blog
 
-title      : Agency Jekyll Theme Demo
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
-author     : Your Name
+
+title      : Dr. Tara Burke
+email      : tara@drtaraburke.com #this is also the email contact forms will go to
+description: "Dr. Tara Burke is a licensed Naturopathic Doctor in Scottsdale, Arizona providing optimized and personalized alternative healthcare"
+author     : Dr. Tara Burke
 # logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
+  # path: assets\img\logo.webp
   # height: 60 #height in px, defaults to 52px
 
 analytics:

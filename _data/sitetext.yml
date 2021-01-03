@@ -1,8 +1,10 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    title: Dr. Tara Burke
+    text: Naturopathic Doctor
+    text2: Thyroid & Adrenal \| Hormones \| Telemedicine
+    text3: Scottsdale, Arizona
+    button: Schedule an Appointment
+    buttonlink: "#schedule" # "#{section}" or "URL/page link"
 
 services:
     title: "Services"
