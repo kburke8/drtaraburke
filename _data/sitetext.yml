@@ -12,21 +12,27 @@ services:
     section: services
     list:
       - title: "Thyroid Health"
+        link: "thyroid-health"
         desc: "With the aid of lab testing, we can measure a baseline of your thyroid’s health and then create a plan to manage and improve your thyroid’s function. Check out this [video](https://www.youtube.com/watch?v=oo3oTNJ0DT0) to learn the basics!"
         icon: fas fa-plus-square #find more at https://fontawesome.com/icons
       - title: "Hormone Balancing"
+        link: "hormone-balancing"
         desc: "Hormone imbalances are common but should not be considered normal! Dr. Burke will help guide you and offer the best options available to balance your hormones."
         icon: fas fa-balance-scale-right       
       - title: "Adrenal Support"
+        link: "adrenal-support"
         desc: "With the help of herbal supplementation and lifestyle changes, we can rejuvenate your adrenals and have you feeling great again."
         icon: fas fa-medkit
       - title: "Digestive Health"
+        link: "digestive-health"
         desc: "Digestive Health doesn’t always end in the gut itself. Hormones, stress, lifestyle can all impact the gastrointestinal system, this is why finding the root cause of digestive health is incredibly important. Dr. Burke works with her patients to take back control of their digestive health."
         icon: fas fa-diagnoses
       - title: "Women's Medicine"
+        link: "womens-medicine"
         desc: "Diagnose and treat common women’s health issues through integrative methods and alternative treatments. Dr. Burke is here for her patients through all of life’s transitions."
         icon: fas fa-female
-      - title: "Menpause Consult"
+      - title: "Menopause Consult"
+        link: "menopause-consult"
         desc: Are you curious about what options are available to you for your menopausal symptoms? Are you looking for more information on bio-identical hormones or hormone replacement therapy? Or perhaps you are curious about non-hormonal options? Let Dr. Burke present all the options available to you!"
         icon: fas fa-comments
 

@@ -30,7 +30,10 @@ analytics:
   google: #Google Analytics tracking code here
 
 collections:
-  portfolio:
+  services:
+    layout: service
+    output: true
+    permalink: /:name
 
 markdown: kramdown
 

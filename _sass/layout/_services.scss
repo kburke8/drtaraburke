@@ -1,5 +1,29 @@
 // Styling for the services section
 .service-heading {
-  margin: 15px 0;
-  text-transform: none;
+
+    margin: 15px 0;
+    text-transform: none;
+    color: black;
+}
+
+.service-link {
+  h4:hover {
+    color: $primary !important
+  }
+
+    i{
+      -webkit-transition: all 0.5s ease;
+         -moz-transition: all 0.5s ease;
+           -o-transition: all 0.5s ease;
+          -ms-transition: all 0.5s ease;
+              transition: all 0.5s ease;
+    }
+    
+    i:hover {
+      -webkit-transform: rotate(-20deg);
+         -moz-transform: rotate(-20deg);
+           -o-transform: rotate(-20deg);
+          -ms-transform: rotate(-20deg);
+              transform: rotate(-20deg);
+    }
 }
