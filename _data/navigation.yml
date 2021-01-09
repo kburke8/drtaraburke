@@ -6,7 +6,7 @@ nav:
     section: services
 
   - title: "Blog"
-    url: /posts/
+    url: /posts
 
   - title: "Contact"
     section: contact
