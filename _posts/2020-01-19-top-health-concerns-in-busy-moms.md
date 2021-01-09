@@ -19,7 +19,7 @@ Your thyroid is a butterfly shaped gland that sits at the base of your neck. It 
 
 There are many different kinds and causes of thyroid conditions. Hashimoto’s, which is an autoimmune condition of the thyroid, is one of the most common conditions I see and treat in my practice.  Why? A few reasons… Hashimoto’s is more likely to happen in women than men, your risk is higher after pregnancy or after a stressful event.[^1] Autoimmune thyroid disease is due to environmental factor but also tends to run in families.[^1]
 
-Symptoms of thyroid disease are often missed or dismissed in mothers. A lot of the symptoms of thyroid disease can be blamed on a busy lifestyle, pregnancy, breastfeeding, stress etc. AKA “you are just too busy and that’s why you are tired all the time”, “hair loss is normal for new moms,” “you are working and raising kids, are you sure you are exercising enough?”, “you are just stressed”. But a lot of the time, it’s not just lifestyle to blame! Having thyroid disease and juggling work-life balance is like pushing a boulder uphill! I have to say the most common cause of fatigue in busy moms I see in my practice is a sluggish thyroid. There are many symptoms of thyroid disease so please download my [list of common symptoms](..\assets\handouts\Thyroid-signs-and-symptoms-1.xls).
+Symptoms of thyroid disease are often missed or dismissed in mothers. A lot of the symptoms of thyroid disease can be blamed on a busy lifestyle, pregnancy, breastfeeding, stress etc. AKA “you are just too busy and that’s why you are tired all the time”, “hair loss is normal for new moms,” “you are working and raising kids, are you sure you are exercising enough?”, “you are just stressed”. But a lot of the time, it’s not just lifestyle to blame! Having thyroid disease and juggling work-life balance is like pushing a boulder uphill! I have to say the most common cause of fatigue in busy moms I see in my practice is a sluggish thyroid. There are many symptoms of thyroid disease so please download my [list of common symptoms](../assets/handouts/Thyroid-signs-and-symptoms-1.xls).
 
 The stress of pregnancy, hormonal changes, and a busy life can all contribute to your thyroid health. Just checking your thyroid hormones is a simple balance to start. With my patients I start with TSH, FT3. FT4, and Thyroid antibodies. Read more about [thyroid testing](https://drtaraburke.com/thyroid-testing/). Imaging, like a thyroid ultrasound, can be a good idea if there is a family history of thyroid disease or a personal history of elevated antibodies. If your provider feels any sort of changes or abnormalities on an examination of your thyroid, then  imaging would also be indicated. 
 
@@ -29,7 +29,7 @@ Your adrenal glands are located above your kidneys and help with your stress res
 
 Being a busy mom, or anyone that has a busy lifestyle, can worsen daily stress levels which in turn strains your adrenal glands.
 
-![Normal Cortisol](..\assets\img\normal-cortisol.webp)
+![Normal Cortisol](../assets/img/normal-cortisol.webp)
 
 There is a wide variety of dysfunctional patterns that all cause a variety of symptoms and thus need a different treatment approach. There is no one pill, herb, or supplement that is good for all types of adrenal dysfunction.
 

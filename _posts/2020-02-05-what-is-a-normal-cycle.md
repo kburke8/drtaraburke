@@ -25,7 +25,7 @@ Ok let’s talk hormones, female hormones. What are they and how do they change 
 
 The main hormone players in females are Estrogen, Progesterone, Luteinizing Hormone (LH), Follicle Stimulating Hormone (FSH), and Testosterone. Depending where you are in your cycle, the levels are different. LH and FSH are produced in your brain and travel down to your ovaries to trigger ovulation. Estrogen Progesterone are produced in your ovaries where they function to prepare your uterus for pregnancy by producing and maintaining your uterine lining, making it a cozy environment for a fertilized egg.  How these hormones work together is easier to show visually.
 
-![The Cycle](..\assets\img\TheCycle.webp)
+![The Cycle](../assets/img/TheCycle.webp)
  
 ## The Cycle:
 

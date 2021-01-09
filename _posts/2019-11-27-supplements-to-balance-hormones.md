@@ -27,7 +27,7 @@ Estrogen Dominance – [Estrogen](https://www.hormone.org/your-health-and-hormon
 
 Symptoms of estrogen dominance include: Tender breasts, irregular cycles – long or short, bloating, acne, breast cysts, PMS, headaches, anxiety, weight gain, difficulty sleeping, fatigue, hair loss, and difficulties getting pregnant. However, this is not an all-inclusive list.
 
-![Supplements To Balance Hormones Chart](..\assets\img\Copy-of-Est-Dom-Patterns-Graphic.webp)
+![Supplements To Balance Hormones Chart](../assets/img/Copy-of-Est-Dom-Patterns-Graphic.webp)
 
 The graphic above shows a healthy pattern and 3 patterns of estrogen dominance. Please take note that all of the unhealthy patterns are still within a typical lab reference range. Your hormones will come back “normal”. It’s the ratio between the hormones that are important! Adding a healthy pattern to the previously mentioned reasons for Estrogen Dominance leaves us with the following patterns for your hormones.
 

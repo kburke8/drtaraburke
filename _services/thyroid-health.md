@@ -6,7 +6,7 @@ layout: service
 # {{page.title}}
 Whether you have a preexisting thyroid condition, or just suspect that you may, you have come to the right place!
 
-The thyroid is an important gland for so many reasons – it plays an important role in metabolism, weight control, mood, digestive health, menstruation, bone health, and heart health. When the thyroid suboptimal you may have symptoms such as trouble losing weight, fatigue, dry skin, hair loss, brittle nails, and/or feel constantly cold. An overactive thyroid may produce symptoms such as heart palpitations, anxiety, weight loss, and difficulty sleeping. For a more comprehensive list of symptoms, please click this link for a [thyroid symptom evaluation](..\assets\handouts\Thyroid-signs-and-symptoms-1.xls) checklist. 
+The thyroid is an important gland for so many reasons – it plays an important role in metabolism, weight control, mood, digestive health, menstruation, bone health, and heart health. When the thyroid suboptimal you may have symptoms such as trouble losing weight, fatigue, dry skin, hair loss, brittle nails, and/or feel constantly cold. An overactive thyroid may produce symptoms such as heart palpitations, anxiety, weight loss, and difficulty sleeping. For a more comprehensive list of symptoms, please click this link for a [thyroid symptom evaluation](assets/handouts/Thyroid-signs-and-symptoms-1.xls) checklist. 
 
 A Naturopathic approach to your thyroid issues can help to determine the root cause of your health concerns and provide various conventional and conjunctive alternative management options. 
 
