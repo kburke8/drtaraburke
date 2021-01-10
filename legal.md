@@ -10,7 +10,7 @@ This Privacy Policy describes how your personal information is collected, used, 
 
 **PERSONAL INFORMATION WE COLLECT**
 
-{% if site.analytics.google %}
+{% if site.google.analytics %}
 
 Automatically Collected (Google Analytics):
 
