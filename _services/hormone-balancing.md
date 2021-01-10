@@ -87,4 +87,4 @@ For more information please check out this article.
 Yes, there are so many other options out there. Various herbals and supplements can effectively help with a variety of symptoms and conditions. I work with women to meet them where they are at and to honor their choices.  
 ##### How can I book an appointment?
 
-Please use the online appointment scheduler, contact the doctor via this form, or call the office at 480- 702-1445. We would love to see how we can help you feel optimal!
+Please use the online appointment scheduler, contact the doctor via the form below, or call the office at 480- 702-1445. We would love to see how we can help you feel optimal!

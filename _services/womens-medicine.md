@@ -57,4 +57,4 @@ Depending on your health concerns, Dr. Burke will recommend Serum (Blood), Saliv
 
 ##### How can I book an appointment?
 
-Please use the online appointment scheduler, contact the doctor via this form, or call the office at 480- 702-1445. We would love to see how we can help you feel optimal!
+Please use the online appointment scheduler, contact the doctor via the form below, or call the office at 480- 702-1445. We would love to see how we can help you feel optimal!

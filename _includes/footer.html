@@ -1,48 +1,64 @@
-  <!-- Footer -->
-  <footer class="footer" id="footer" style="background-color:white;">
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col-md-4">
-          <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
+<!-- Footer -->
+<footer class="footer" id="footer" style="background-color:white;">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-4">
+        <div class="text-muted">
+        <div>
+          <b>Address:</b>
         </div>
-		<!-- Social Media -->
-        <div class="col-md-4">
-          <ul class="list-inline social-buttons">
-		  {% for link in site.data.sitetext.footer.social  %}
-            <li class="list-inline-item">
-			  {% if link.url %}
-              <a href="{{ link.url }}">
-                {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
-              </a>
-			  {% endif %}
-            </li>
-			{% endfor %}
-          </ul>
+        <div>
+          8700 E. Vista Bonita Dr. Suite 200, <br>
+          Scottsdale, Arizona, 85255
         </div>
-		<!-- Legal -->
-        <div class="col-md-4">
-          <ul class="list-inline quicklinks">
-            <li class="list-inline-item">
-              <a href="{{site.baseurl}}/legal">{{ site.data.sitetext.footer.legal | default: "Privacy Policy" }}</a>
-            </li>
-          </ul>
-          {% include disclaimer.html %}
+        <div>
+          <b>Phone:</b>
+        </div>
+        <div>
+          (480) 702-1445
         </div>
       </div>
+        <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
+
+      </div>
+      <!-- Social Media -->
+      <div class="col-md-4">
+        <ul class="list-inline social-buttons">
+          {% for link in site.data.sitetext.footer.social %}
+          <li class="list-inline-item">
+            {% if link.url %}
+            <a href="{{ link.url }}">
+              {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
+            </a>
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <!-- Legal -->
+      <div class="col-md-4">
+        <ul class="list-inline quicklinks">
+          <li class="list-inline-item">
+            <a href="{{site.baseurl}}/legal">{{ site.data.sitetext.footer.legal | default: "Privacy Policy" }}</a>
+          </li>
+        </ul>
+        {% include disclaimer.html %}
+      </div>
     </div>
-  </footer>
+  </div>
+</footer>
 {% if page.layout == "page" %}
 <script>
-fixPageShort();
-function fixPageShort() {
-  if(window.innerHeight > document.body.offsetHeight) {
-    document.getElementById("footer").style.position="fixed";
-    document.getElementById("footer").style.bottom=0;
-    document.getElementById("footer").style.right=0;
-    document.getElementById("footer").style.left=0;
-    document.getElementById("footer").style.width="100%";
+  fixPageShort();
+  function fixPageShort() {
+    if (window.innerHeight > document.body.offsetHeight) {
+      document.getElementById("footer").style.position = "fixed";
+      document.getElementById("footer").style.bottom = 0;
+      document.getElementById("footer").style.right = 0;
+      document.getElementById("footer").style.left = 0;
+      document.getElementById("footer").style.width = "100%";
+    }
   }
-}
 </script>
 {% endif %}
-  <!-- End Footer -->
+<!-- End Footer -->
