@@ -21,7 +21,7 @@ services:
         icon: fas fa-balance-scale-right       
       - title: "Adrenal Support"
         link: "adrenal-support"
-        desc: "With the help of herbal supplementation and lifestyle changes, we can rejuvenate your adrenals and have you feeling great again."
+        desc: "Dr. Burke can discuss herbal supplementation and lifestyle changes to help rejuvenate your adrenals."
         icon: fas fa-medkit
       - title: "Digestive Health"
         link: "digestive-health"
@@ -33,13 +33,13 @@ services:
         icon: fas fa-female
       - title: "Menopause Consult"
         link: "menopause-consult"
-        desc: Are you curious about what options are available to you for your menopausal symptoms? Are you looking for more information on bio-identical hormones or hormone replacement therapy? Or perhaps you are curious about non-hormonal options? Let Dr. Burke present all the options available to you!"
+        desc: "Are you curious about what options are available to you for your menopausal symptoms? Are you looking for more information on bio-identical hormones or hormone replacement therapy? Or perhaps you are curious about non-hormonal options? Let Dr. Burke present all the options available to you!"
         icon: fas fa-comments
 
 team:
     title: "Meet Dr. Burke"
     #text: "Licensed Naturopathic Doctor"
-    subtext:  Dr. Tara Burke is a licensed Naturopathic Doctor in Scottsdale, Arizona. Dr. Burke’s primary focus is in women’s medicine and endocrinology, having received extensive training in thyroid health, adrenal health, and hormone balance after graduation from the Southwest College of Naturopathic Medicine. She spends time with her patients to identify their individual health goals and treat, not just the symptoms, but the whole person. She utilizes lifestyle, nutrition, supplementation, herbals, acupuncture, IV therapy, and when indicated, medications, to find a solution for each of her patients. Ethical, evidence-based medicine is her top priority. Dr. Burke is currently practicing at Blossom Wellness in North Scottsdale, Arizona near to the Grayhawk, DC Ranch, Desert Ridge, and Pinnacle Peak areas. Click to Schedule Here. 
+    subtext:  Dr. Tara Burke is a licensed Naturopathic Doctor in Scottsdale, Arizona. Dr. Burke’s primary focus is in women’s medicine and endocrinology, having received extensive training in thyroid health, adrenal health, and hormone balance after graduation from the Southwest College of Naturopathic Medicine. She spends time with her patients to identify their individual health goals and treat, not just the symptoms, but the whole person. She utilizes lifestyle, nutrition, supplementation, herbals, acupuncture, IV therapy, and when indicated, medications, to find a solution for each of her patients. Ethical, evidence-based medicine is her top priority. Dr. Burke is currently practicing at Blossom Wellness in North Scottsdale, Arizona near to the Grayhawk, DC Ranch, Desert Ridge, and Pinnacle Peak areas. [Click Here to Schedule](https://drtaraburke.com/book/). 
     section: about
     people:
       - name: "Dr. Tara Burke"
