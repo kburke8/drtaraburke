@@ -2,6 +2,7 @@
 title: Adrenal Support
 subtitle: 
 layout: service
+description: The adrenal glands are often passed by when it comes to health care. The adrenals are small glands that sit on top of your kidneys and produce...
 ---
 # {{page.title}}
 Feeling fatigued all day but can’t fall asleep at night? 

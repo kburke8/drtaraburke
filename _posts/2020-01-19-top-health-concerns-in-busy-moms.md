@@ -8,6 +8,7 @@ author:
 tags: []
 summary: 
 excerpt: Your thyroid is a butterfly shaped gland that sits at the base of your neck. It is a small but mighty gland that helps with metabolism, weight, control, heart health, bone health, regulating 
+description: Your thyroid is a butterfly shaped gland that sits at the base of your neck. It is a small but mighty gland that helps...
 ---
 # Top Health Concerns in Busy Moms
 

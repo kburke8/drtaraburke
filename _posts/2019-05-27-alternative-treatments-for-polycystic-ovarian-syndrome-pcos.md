@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alternative Treatments for Polycystic Ovarian Syndrome (PCOS)
+title: Alternative Treatments for PCOS
 date: 2019-05-27 00:00
 category: 
 permalink: /alternative-treatments-for-polycystic-ovarian-syndrome-pcos/
@@ -8,6 +8,7 @@ author:
 tags: []
 summary: 
 excerpt: Polycystic Ovarian Syndrome, abbreviated PCOS, is a common female hormone disorder with symptoms such as irregular or absent periods, unwanted hair growth, and acne. Common conventional treatments for PCOS are hormonal birth control and medication to help blood sugar and high testosterone levels. There are many safe alternative treatments that are effective and natural.
+description: Polycystic Ovarian Syndrome, abbreviated PCOS, is a common female hormone disorder with symptoms such as irregular or absent periods, unwanted...
 ---
 # Alternative Treatments for Polycystic Ovarian Syndrome (PCOS)
 Polycystic Ovarian Syndrome, abbreviated PCOS, is a common female hormone disorder with symptoms such as irregular or absent periods, unwanted hair growth, and acne. Common conventional treatments for PCOS are hormonal birth control and medication to help blood sugar and high testosterone levels. There are many safe alternative treatments that are effective and natural.

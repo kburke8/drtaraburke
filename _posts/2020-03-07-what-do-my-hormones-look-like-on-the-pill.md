@@ -8,6 +8,7 @@ author:
 tags: []
 summary: 
 excerpt: Most birth control pills contain two of the female hormones, estrogen and progesterone. These are termed combination pills. By taking the pill every day, the high levels of synthetic estrogen and progesterone make your body think that you are already pregnant.  This stops ovulation from 
+description: Most birth control pills contain two of the female hormones, estrogen and progesterone. These are termed combination pills. By taking the pill every day...
 ---
 # What do my Hormones look like on “The Pill”?
 

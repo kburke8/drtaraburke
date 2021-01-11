@@ -2,6 +2,7 @@
 title: Digestive Health
 subtitle: 
 layout: service
+description: Digestive Health doesn’t always end in the gut. Hormones, stress, lifestyle can all impact your gastrointestinal system, this is why finding...
 ---
 # {{page.title}}
 

@@ -2,6 +2,7 @@
 title: Hormone Balancing
 subtitle: 
 layout: service
+description: In recent years, Hormone Balancing has come front and center when it comes to optimal women's health...
 ---
 
 # {{page.title}}

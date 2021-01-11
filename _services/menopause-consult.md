@@ -2,6 +2,7 @@
 title: Menopause Consult
 subtitle: 
 layout: service
+description: Learn about the various treatment options to help you through the peri to post-menopausal period. Dr. Burke will discuss herbal, nutrition...
 ---
 # {{page.title}}
 

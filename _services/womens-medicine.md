@@ -2,6 +2,7 @@
 title: Women's Medicine
 subtitle:
 layout: service
+description: Whether you are struggling with an irregular cycle, fertility, acne, painful periods, eczema, digestive health, or perimenopausal symptoms, Naturopathic...
 ---
 # {{page.title}}
 

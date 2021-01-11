@@ -8,6 +8,7 @@ author:
 tags: []
 summary: 
 excerpt: The Thyroid gland is a small butterfly shaped gland that sits at the base of your neck. It is a vitally important gland in your body and controls all things metabolism. Think of it like your internal thermostat
+description: he Thyroid gland is a small butterfly shaped gland that sits at the base of your neck. It is a vitally important...
 ---
 
 # What Tests Are Done For Thyroid Problems?

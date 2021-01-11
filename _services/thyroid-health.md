@@ -2,6 +2,7 @@
 title: Thyroid Health
 subtitle: 
 layout: service
+description: The thyroid is an important gland for so many reasons – it plays an important role in metabolism, weight control, mood, digestive health, menstruation...
 ---
 # {{page.title}}
 Whether you have a preexisting thyroid condition, or just suspect that you may, you have come to the right place!
