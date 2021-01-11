@@ -34,4 +34,4 @@ There are various types of dysfunctional patterns which can produce varying symp
 
 ##### How can I book an appointment?
 
-* Please use the online appointment scheduler, contact the doctor via the form below, or call the office at 480-702-1445. We would love to see how we can help you feel optimal!
+* Please use the online appointment scheduler, contact the doctor via the form below, or call the office at 480-702-1445. We would love to see how we can help you feel optimal! 
