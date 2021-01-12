@@ -6,7 +6,7 @@ title: Schedule
 
 ***
 
-To become a patient or to schedule your next appointment, please call our office at 480-702-1445, or use the scheduling window below. If you are a potential patient wanting to see if Dr. Burke is the right fit for your health goals, she offers a complimentary 15-minute meet and greet phone consultation.
+To become a patient or to schedule your next appointment, please call our office at <a href="tel:+4807021445">(480) 702-1445</a>, or use the scheduling window below. If you are a potential patient wanting to see if Dr. Burke is the right fit for your health goals, she offers a complimentary 15-minute meet and greet phone consultation.
 
 ***
 
