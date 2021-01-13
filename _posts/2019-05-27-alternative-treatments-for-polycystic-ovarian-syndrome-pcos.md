@@ -14,6 +14,7 @@ description: Polycystic Ovarian Syndrome, abbreviated PCOS, is a common female h
 Polycystic Ovarian Syndrome, abbreviated PCOS, is a common female hormone disorder with symptoms such as irregular or absent periods, unwanted hair growth, and acne. Common conventional treatments for PCOS are hormonal birth control and medication to help blood sugar and high testosterone levels. There are many safe alternative treatments that are effective and natural.
 
 ***
+
 ## PCOS: The Basics
 
 PCOS, is a hormonal disorder commonly diagnosed in young women. It was named for multiple cysts seen on the ovaries of patients diagnosed with PCOS, although this is a bit of a misnomer as many patients with PCOS will not always have cystic ovaries. Because it causes hormonal imbalances it can decrease fertility, greatly affecting your ability to have a baby.
@@ -38,6 +39,8 @@ The cause of PCOS is not fully understood. High androgens, inappropriate LH secr
 * Fatigue
 * Sleep problems
 
+***
+
 ## How is PCOS Treated?
 
 Conventionally PCOS is treated with The Pill, which is a hormonal contraceptive. 2 This regulates your cycle and decreases androgens. Additional medication, such as metformin and spironolactone, may be used for insulin resistance and for symptoms of high androgens such as acne and unwanted hair growth. [^2],[^3]
@@ -57,6 +60,7 @@ There are various supplements and botanical medicines that are used in PCOS. For
 Lastly, acupuncture can be a great addition to any of the care options discussed above. Acupuncture can be beneficial for managing PCOS symptoms and to regulate cycles 3  but it also can help to calm and reset the body, setting the groundwork for good health.
 
 ***
+
 ## Understanding Your Options:
 
 Conventional treatments are effective for many patients with PCOS.  Alternative treatments can help not only help with managing symptoms but also with increasing fertility. When all aspects of health are addressed, hormonal balance can be restored.
@@ -66,6 +70,7 @@ Before deciding on a treatment option or change to your treatment plan, please s
 If you have been diagnosed with PCOS or think you may have PCOS and are interested in alternative treatments I am here to answer questions and help get you back to feeling well again!
 
 ***
+
 #### References:
 
 [^1]: Kahsar-Miller MD, Nixon C, Boots LR, Go RC, Azziz R. Prevalence of polycystic ovary syndrome (PCOS) in first-degree relatives of patients with PCOS. Fertil Steril. 2001;75(1):53-58. doi:10.1016/S0015-0282(00)01662-9

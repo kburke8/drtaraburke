@@ -13,15 +13,21 @@ description: There are a number of benefits, drawbacks, and common misconception
 
 # Herbs for Hypothyroid 
 
+***
+
 ## Basics
 
 There are a number of benefits, drawbacks, and common misconceptions when it comes treatment using herbs for hypothyroid, so let’s lay out the facts on some of the most common ones. Firstly, hypothyroidism is a condition where your thyroid is not making enough thyroid hormone. There are various causes of hypothyroid like autoimmune conditions, diet, medications, environmental exposures, and surgical removal of the thyroid. Here are a few herbals that have been traditionally used for hypothyroidism. If you think maybe you need a refresher on how your thyroid talks to the rest of your body, go ahead and watch [this quick video](https://www.youtube.com/watch?v=oo3oTNJ0DT0) first!
+
+***
 
 ## The Most Commonly Prescribed Herb for Hypothyroid:
 
 Fucus vesiculosus, alternatively known as [Bladderwrack](https://www.webmd.com/vitamins/ai/ingredientmono-726/bladderwrack), is the herb most commonly associated with the treatment of hypothyroid. This is a kelp and seaweed product that is often used in hypothyroidism due to the high iodine content. Insufficient levels of iodine can cause hypothyroidism – BUT taking additional iodine from Bladderwrack can more often than not be detrimental to your thyroid.[^1] Why? Iodine has a very narrow therapeutic index, meaning it has a very narrow window between an effective dose and one which produces adverse effects. Put simply, too much, or too little iodine can be harmful.[^2] In a standard American diet most people already get plenty of iodine, meaning additional sources in supplemental or herbal form can do more harm than good. Please consult with a knowledgeable practitioner before you start taking Bladderwrack to determine if it is actually indicated in your case. 
 
 * ***THE BOTTOM LINE:*** More often than not, Bladderwrack will actually provide TOO MUCH iodine and be detrimental to your system.
+
+***
 
 ## Other Commonly Prescribed Herbs for Hypothyroid:
 
@@ -55,15 +61,21 @@ Nigella Sativa, or [black cumin](https://www.webmd.com/vitamins/ai/ingredientmon
 
 **Remember that just because something is natural does not necessarily make it safe! Many herbals can have serious side effects, adverse reactions, interactions with other medications/supplements/herbs and may not be OK to take during pregnancy or while breastfeeding. ALWAYS ask your doctor before starting anything new.**
 
+***
+
 ## But this is not the end of the story….
 
 While all of these herbs have traditionally been used in hypothyroid, they are typically not enough. Serious long-term effects can result from attempting to treat your hypothyroid condition with herbals alone. Negative effects from not properly treating hypoythroid conditions include elevations in cholesterol and lipids, [^3],[^6]  decreased fertility,[^7]  and  poor gastrointestinal health. Elevations in TSH can promote unwanted growth of the thyroid gland which is exceedingly important to take into consideration for patients with a history of nodules or thyroid cancer.[^8] Regular thyroid labs and imaging completed by your healthcare professional are important for the diagnosis and management of hypothyroidism. For more info on how to test your thyroid please check out this article about [which labs should be run](https://drtaraburke.com/thyroid-testing/). 
 
 It is also critical to find the root cause of your hypothyroid before starting any natural treatments. Depending on the cause of your sluggish thyroid, herbal products may not be indicated and could cause more harm. Talking with your doctor before starting natural treatments is important.
 
+***
+
 ## So, if herbals are not enough on their own what are my other options?
 
 Well this is when medications are indicated and imperative. There are various medication options to treat hypothyroidism, both synthetic and natural. Talking with your doctor to find the right type and dose of medication can help you feel better as well as mitigate complications from untreated hypothyroidism. 
+
+***
 
 ## Conclusion
 
@@ -72,6 +84,8 @@ Traditionally used herbs for hypothyroid are often not sufficient to treat hypot
 Naturopathic doctors have the knowledge to customize herbal prescriptions that are tailored to your unique health concerns and can safely be used with many medications. Naturopathic doctors also can help with choosing a thyroid medication that fits your unique goals and situation.
 
 If you have been diagnosed with hypothyroidism or Hashimotos, or think you may have hypothyroid I am here to answer questions and help get you back to feeling well again. 
+
+***
 
 ### References:
 

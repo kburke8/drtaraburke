@@ -1,0 +1,33 @@
+// Styling for the services section
+.blog-post {
+  padding-bottom: 50px;
+  h1 {
+    padding-bottom: 25px;
+    letter-spacing: 1px;
+    text-decoration: underline;
+  }
+  h2 {
+    padding-bottom: 15px;
+  }
+  h5 {
+    padding-bottom: 5px;
+  }
+  hr  {
+    border: 0;
+    height: 2px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+  }
+  ul > {
+   li > {
+    margin: 5px;
+    ul {
+      margin-bottom: 12px;
+    }
+    }
+  }
+  a{
+      color: darken($color: $primary, $amount: 20%);
+  }
+  
+}

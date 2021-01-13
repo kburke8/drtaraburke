@@ -13,6 +13,9 @@ description: Have you ever wondered why your cycle isn’t regular or why it is 
 # The Long Cycle
 
 Have you ever wondered why your cycle isn’t regular or why it is longer than “normal”? This article explores possible reasons why your cycle is long and how to find the root cause as to why.
+
+***
+
 ## Cycle Length
 
 First, it is important to define what a long cycle means to you. Is it regular every 2 months? Is it not the “normal” 28 days but instead every 35 days? Or is it totally unpredictable, coming every 2- 6 months? There are a few categories listed below. 
@@ -31,6 +34,9 @@ First, it is important to define what a long cycle means to you. Is it regular e
 
     * Irregular Long (ex. cycle is every 6 months, 3 months – you cannot predict when your period would arrive)
 
+
+***
+
 ## Medical Definitions of a Long Cycle:
 
 **Oligomenorrhea**, “a long cycle”, is defined as fewer than nine menstrual cycles per year AND/OR a cycle length greater than 35 days. 
@@ -38,6 +44,9 @@ First, it is important to define what a long cycle means to you. Is it regular e
 **Amenorrhea**, not having a period, is defined as no period for 3 months if you used to have regular cycles OR no period for a period of 6 months if you have a history of irregular cycles. 
 
 Depending on your cycle history and frequency there are different reasons why your cycle is long. It is important to tell your doctor about the frequency and regularity of your cycle to help them narrow down a cause. 
+
+***
+
 ## Possible Reasons for a Long Cycle:
 
 There are so many reasons for why your cycle might be long, whether it is due to a condition, comorbid condition, or hormone imbalance. Finding the reason why your cycle is long is the most important thing to finding the best way to treat it. Here is a non-exhaustive list of some common problems that I see:
@@ -79,8 +88,14 @@ Sometimes imaging is needed beyond lab work to help determine a cause. These are
 **MRI of the Brain:** Your brain is the controller of your hormones.  This can look for any issues that could impair how your brain is talking to the rest of your body including your female reproductive system. 
 
 **Ultrasound of the Female Reproductive Organs:** This will provide a look at your uterus and ovaries to see if there are any anatomical issues for why your cycle is long. For example, in PCOS multiple cysts on your ovaries are often visualized. 
+
+***
+
 ## Treatment
 
 This is the hard part because treatment totally depends on the reason why! There is no one treatment that fits all. The approach to a patient who has thyroid disease is very different from the patient who has PCOS. This is why it is important to go to a doctor who will determine the root cause of your cycle irregularity!  
+
+***
+
 #### References:
 * Welt CK. Evaluation and management of secondary amenorrhea. https://www.uptodate.com/contents/evaluation-and-management-of-secondary-amenorrhea?search=olgiomenorrhea&source=search_result&selectedTitle=1~107&usage_type=default&display_rank=1. Accessed April 13, 2020.

@@ -33,5 +33,7 @@ For many people, even a little dip in thyroid levels can cause major impacts on 
 
 Well, we have all heard that cholesterol is dangerous at high levels and this is very true. Elevated cholesterol can lead to cardiovascular disease. If cholesterol is not broken down properly/ it can start to form plaques in arteries and lead to obstruction of these arteries. Now most information out there about cholesterol is related to lifestyle, which is also very important, but just one piece of the puzzle in thyroid disease. Yes, you may need to take a good look at what you are eating but for many of my patients this is not always the case. They have outstanding diets, exercise regularly but come to see me with elevated cholesterol levels. If these patients are also experiencing hypothyroid symptoms this may be an important factor to consider. All in all, if you have high cholesterol, you should be screened for hypothyroidism. 
 
+***
+
 #### References:
 * Ross DS. Lipid abnormalities in thyroid disease. https://www.uptodate.com/contents/lipid-abnormalities-in-thyroid-disease?search=thyroid%20cholesterol&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1. Accessed April 13, 2020.

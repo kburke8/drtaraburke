@@ -15,15 +15,22 @@ description: A typical cycle comes every 25-30 days, menses is 5-7 days. As far 
 
 I often find myself talking to my patients about abnormal cycles – whether that be the length of their period/cycle, the amount of flow, clotting, pain, etc. I thought that I would go back to some basics this week to write about what a normal cycle should look like.
 
+***
+
 ## The Basics:
 
 A typical cycle comes every 25-30 days, menses is 5-7 days. As far as flow is concerned, you should not have to change more than a pad or super tampon every hour for three or more consecutive hours in one day. Initially, your blood should appear similar to a bright red in color and can then fade to a brownish color as your period ends. PMS and cramping should be minimal and you should not experience pain during your period. Even a “normal” cycle varies from person to person. The moral of the story is that a cycle should not be too long or short and should not affect your daily life. If your cycle is impacting your lifestyle then chances are you have an abnormal cycle.
+
+
+***
 
 ## Hormones:
 
 Ok let’s talk hormones, female hormones. What are they and how do they change over the course of the month? Here’s the breakdown.
 
 The main hormone players in females are Estrogen, Progesterone, Luteinizing Hormone (LH), Follicle Stimulating Hormone (FSH), and Testosterone. Depending where you are in your cycle, the levels are different. LH and FSH are produced in your brain and travel down to your ovaries to trigger ovulation. Estrogen Progesterone are produced in your ovaries where they function to prepare your uterus for pregnancy by producing and maintaining your uterine lining, making it a cozy environment for a fertilized egg.  How these hormones work together is easier to show visually.
+
+***
 
 ![The Cycle](../assets/img/TheCycle.webp)
  

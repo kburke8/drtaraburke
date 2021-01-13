@@ -18,6 +18,8 @@ I thought I would take some time to discuss some of my favorite herbs, nutrients
 
 However, choosing supplements for hormone balance isn’t always cut and dry. Depending on why your hormones are imbalanced can mean that is it time for a different treatment plan.
 
+***
+
 ## Types of Hormone Imbalances
 
 Estrogen Dominance – [Estrogen](https://www.hormone.org/your-health-and-hormones/glands-and-hormones-a-to-z/hormones/estrogen) dominance is a quite common cause of hormone imbalance that occurs when estrogen levels are too high relative to progesterone levels. This can happen in a few ways:
@@ -54,6 +56,8 @@ Signs of Elevated Testosterone include acne, unwanted/inappropriate hair growth 
 Signs of Low Testosterone include low libido, fatigue, weakness, and depressed mood.
 
 **Other hormone imbalances –** Thyroid and adrenal health can be impacted by changes in female hormone health. Conversely, female hormone health can be impacted by disorders of thyroid and adrenal glands. The best way to determine diagnosis and treatment is to see your health care provider that is trained in hormone imbalances.
+
+***
 
 ## Herbs, Nutrients, and Nutrition Options for Hormone Balance
 
@@ -100,6 +104,8 @@ There is no one herb, nutritional plan, product, or therapy that is good for eve
 5. Take a look at your diet – make a diet diary of all the foods you are having for a week and bring it into your naturopathic doctor so they can help to tell you what foods are helping or hindering your hormones.
 
 Make an appointment with a doctor who can help to determine what medications or supplements to balance hormones are appropriate for your type of hormone imbalance.
+
+***
 
 #### References:
 
