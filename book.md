@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Schedule
+description: Become a patient with Dr. Burke and take control of your health today! Take advantage of a complimentary meet and greet appointment with Dr. Tara Burke, NMD.
 ---
 # {{page.title}}
 

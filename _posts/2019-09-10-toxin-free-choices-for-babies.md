@@ -2,9 +2,9 @@
 layout: post
 title: Toxin-Free Choices For Babies
 date: 2019-09-10 00:00
-category: 
+category: Children
 permalink: /toxin-free-choices-for-babies/
-author: 
+author: Dr. Tara Burke 
 tags: []
 summary: 
 excerpt: Avoiding plastics is not only good for the environment, but also good for your health! While I realize one person avoiding single use plastic products won’t save the world, I am a firm believer that

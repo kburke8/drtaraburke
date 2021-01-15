@@ -2,10 +2,10 @@
 layout: post
 title: Hearth Health in Thyroid Disease
 date: 2020-04-20 00:00
-category: 
+category: Naturopathic Medicine
 permalink: /heart-health-in-thyroid-disease/
-author: 
-tags: []
+author: Dr. Tara Burke
+tags: [Thyroid]
 summary: 
 excerpt: Your thyroid not only impacts metabolism, weight, bone health, mood, digestive function, and your menstrual cycle, but also your lipid levels – like cholesterol. 
 description: I often get a questioning look from patients. “Why are you checking my cholesterol on a thyroid panel?” At first glance it may seem unrelated but...

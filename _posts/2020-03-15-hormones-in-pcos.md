@@ -2,10 +2,10 @@
 layout: post
 title: Hormones In PCOS
 date: 2020-03-15 00:00
-category: 
+category: Naturopathic Medicine
 permalink: /hormones-in-pcos/
-author: 
-tags: []
+author: Dr. Tara Burke
+tags: [PCOS]
 summary: 
 excerpt: PCOS is a hormonal disorder which is commonly diagnosed in young women. It was named for multiple cysts seen on the ovaries of patients diagnosed with PCOS, although this is a bit of a misnomer as patients with PCOS will not always have cystic ovaries.
 description: PCOS is a hormonal disorder which is commonly diagnosed in young women. It was named for multiple cysts seen on the ovaries of patients diagnosed with PCOS...

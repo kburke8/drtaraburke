@@ -2,9 +2,9 @@
 layout: post
 title: The Long Cycle
 date: 2020-04-21 00:00
-category: 
+category: Naturopathic Medicine
 permalink: /the-long-cycle/
-author: 
+author: Dr. Tara Burke
 tags: []
 summary: 
 excerpt: Have you ever wondered why your cycle isn’t regular or why it is longer than “normal”? This article explores possible reasons why your cycle is long and how to find the root cause as to why.

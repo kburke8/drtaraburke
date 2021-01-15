@@ -2,9 +2,9 @@
 layout: post
 title: What is a Normal Cycle?
 date: 2020-02-05 00:00
-category: 
+category: Naturopathic Medicine
 permalink: /what-is-a-normal-cycle/
-author: 
+author: Dr. Tara Burke
 tags: []
 summary: 
 excerpt: I often find myself talking to my patients about abnormal cycles – whether that be the length of their period/cycle, the amount of flow, clotting, pain, etc. I thought that I would go back to some 

@@ -2,10 +2,10 @@
 layout: post
 title: Supplements to Balance Hormones
 date: 2019-11-27 00:00
-category: 
+category: Naturopathic Medicine
 permalink: /supplements-to-balance-hormones/
-author: 
-tags: []
+author: Dr. Tara Burke
+tags: [Hormones]
 summary: 
 excerpt: Hormone balance is one of the most common reasons patients pay me an initial visit, and a common question is whether I recommend supplements to balance hormones. In recent years, focus on women’s health has gone from just a yearly PAP smear and breast exam to discussion around optimal health 
 description: Choosing supplements for hormone balance isn’t always cut and dry. Depending on why your hormones are imbalanced can mean that is it time for...

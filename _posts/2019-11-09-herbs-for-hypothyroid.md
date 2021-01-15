@@ -2,10 +2,10 @@
 layout: post
 title: Herbs for Hypothyroid
 date: 2019-11-09 00:00
-category: 
+category: Naturopathic Medicine
 permalink: /herbs-for-hypothyroid/
-author: 
-tags: []
+author: Dr. Tara Burke
+tags: ["Hypothyroid"]
 summary: 
 excerpt: There are a number of benefits, drawbacks, and common misconceptions when it comes treatment using herbs for hypothyroid, so let’s lay out the facts on some of the most common ones. Firstly, 
 description: There are a number of benefits, drawbacks, and common misconceptions when it comes treatment using herbs for hypothyroid, so let’s lay out the facts...

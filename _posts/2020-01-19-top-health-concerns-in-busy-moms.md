@@ -2,9 +2,9 @@
 layout: post
 title: Top Health Concerns In Busy Moms
 date: 2020-01-19 00:00
-category: 
+category: Motherhood
 permalink: /top-health-concerns-in-busy-moms/
-author: 
+author: Dr. Tara Burke
 tags: []
 summary: 
 excerpt: Your thyroid is a butterfly shaped gland that sits at the base of your neck. It is a small but mighty gland that helps with metabolism, weight, control, heart health, bone health, regulating 

@@ -2,9 +2,9 @@
 layout: post
 title: What Do My Hormones Look Like On "The Pill"?
 date: 2020-03-07 00:00
-category: 
+category: Naturopathic Medicine
 permalink: /what-do-my-hormones-look-like-on-the-pill/
-author: 
+author: Dr. Tara Burke
 tags: []
 summary: 
 excerpt: Most birth control pills contain two of the female hormones, estrogen and progesterone. These are termed combination pills. By taking the pill every day, the high levels of synthetic estrogen and progesterone make your body think that you are already pregnant.  This stops ovulation from 
