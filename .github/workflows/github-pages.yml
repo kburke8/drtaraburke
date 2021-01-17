@@ -24,6 +24,7 @@ jobs:
           node-version: '14'
       # Install PurgeCSS (needs to be in your package.json)
       - run: npm install
+      - run: npm i -g purgecss
       # Build site
       - name: Install dependencies & Build Site
         uses: limjh16/jekyll-action-ts@v2
