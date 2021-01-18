@@ -12,7 +12,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      # Install Node as this is needed for PurgeCSS
+      - name: 🔨 install dependencies & build site
+        uses: limjh16/jekyll-action-ts@v2
+        with:
+          enable_cache: true
+
+     # Install Node as this is needed for PurgeCSS
       - name: Setup Node
         uses: actions/setup-node@v2
         with:
@@ -23,6 +28,8 @@ jobs:
       - run: npm i -g purgecss
       - run: purgecss --css _site/assets/css/bootstrap.min.css --content _site/**/*.html --safelist bg-light --output _site/assets/css
       - run: purgecss --css _site/assets/css/bootstrap.min.css --content _site/**/*.html --safelist bg-light
-      - uses: helaili/jekyll-action@2.0.5
-        env:
-          JEKYLL_PAT: ${{ secrets.GH_PAT }}
+      - name: 🚀 deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GH_PAT }}
+        publish_dir: ./_site
