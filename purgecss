@@ -9,7 +9,7 @@ if [ -x "$basedir/node" ]; then
   "$basedir/node"  "$basedir/../purgecss/bin/purgecss.js" "$@"
   ret=$?
 else 
-   /opt/hostedtoolcache/node/14.15.4/x64/bin/node  "$basedir/../purgecss/bin/purgecss.js" "$@"
+   node  "$basedir/../purgecss/bin/purgecss.js" "$@"
   ret=$?
 fi
 exit $ret
