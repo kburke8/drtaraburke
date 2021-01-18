@@ -9,8 +9,6 @@ Jekyll::Hooks.register(:site, :post_write) do |_site|
     # system("purgecss --config #{config_file} --output _site/assets")
     #/github/workspace/_plugins/hooks  
     File.chmod(0777,"/home/runner/work/drtaraburke/drtaraburke/node_modules/.bin/purgecss")
-    print Dir.pwd
-    print __dir__
     system("/home/runner/work/drtaraburke/drtaraburke/node_modules/.bin/purgecss --css _site/assets/css/*.css --content _site/**/*.html --safelist bg-light --output _site/assets/css")
     #system("/github/workspace/node_modules/.bin/purgecss --css _site/assets/css/bootstrap.min.css --content _site/**/*.html --safelist bg-light --output _site/assets/css")
   end
