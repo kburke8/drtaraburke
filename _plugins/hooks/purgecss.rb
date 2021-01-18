@@ -7,7 +7,7 @@ Jekyll::Hooks.register(:site, :post_write) do |_site|
     # File.open(config_file, 'w+') { |f| f.write(config_text) }
     # Run purgecss command.
     # system("purgecss --config #{config_file} --output _site/assets")
-    print Dir.pwd
-    print __dir__
-    system("../../node_modules/.bin/purgecss --css _site/assets/css/bootstrap.min.css --content _site/**/*.html --safelist bg-light --output _site/assets/css")
+    
+    #/github/workspace/github/workspace/_plugins/hooks  
+    system("../../purgecss --css _site/assets/css/bootstrap.min.css --content _site/**/*.html --safelist bg-light --output _site/assets/css")
   end
