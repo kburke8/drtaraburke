@@ -16,7 +16,10 @@ jobs:
         uses: limjh16/jekyll-action-ts@v2
         with:
           enable_cache: true
-
+      - name: 💎 setup ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7 # can change this to 2.7 or whatever version you prefer
      # Install Node as this is needed for PurgeCSS
       - name: Setup Node
         uses: actions/setup-node@v2
