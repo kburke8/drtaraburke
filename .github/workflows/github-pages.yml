@@ -12,7 +12,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - run: npm i -g purgecss
+      # Install Node as this is needed for PurgeCSS
+      - name: Setup Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: '14'
+      # Install PurgeCSS (needs to be in your package.json)
+      - run: npm install
       - uses: helaili/jekyll-action@2.0.5
         env:
           JEKYLL_PAT: ${{ secrets.GH_PAT }}
