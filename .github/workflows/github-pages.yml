@@ -29,8 +29,8 @@ jobs:
       - run: node --version
       - run: npm install
       - run: npm i -g purgecss
-    #  - run: purgecss --css _site/assets/css/bootstrap.min.css --content _site/**/*.html --safelist bg-light --output _site/assets/css
-     # - run: purgecss --css _site/assets/css/bootstrap.min.css --content _site/**/*.html --safelist bg-light
+      - run: purgecss --css _site/assets/css/bootstrap.min.css --content _site/**/*.html --safelist bg-light
+      - run: purgecss --css _site/assets/css/bootstrap.min.css --content _site/**/*.html --safelist bg-light --output ./_site/assets/css
       - name: 🚀 deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
