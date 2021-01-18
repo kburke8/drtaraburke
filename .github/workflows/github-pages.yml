@@ -19,13 +19,7 @@ jobs:
           node-version: '14'
       # Install PurgeCSS (needs to be in your package.json)
       - run: npm install
-      - name: 🔨 install dependencies & build site
-        uses: limjh16/jekyll-action-ts@v2
-        with:
-          enable_cache: true
-
-      - name: 🚀 deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GH_PAT }}
-          publish_dir: ./_site
+      - run: npm i -g purgecss
+      - uses: helaili/jekyll-action@2.0.5
+        env:
+          JEKYLL_PAT: ${{ secrets.GH_PAT }}
