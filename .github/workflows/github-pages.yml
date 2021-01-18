@@ -21,6 +21,7 @@ jobs:
       - run: node --version
       - run: npm install
       - run: npm i -g purgecss
+      - run: /github/workspace/node_modules/.bin/purgecss --css _site/assets/css/bootstrap.min.css --content _site/**/*.html --safelist bg-light --output _site/assets/css
       - uses: helaili/jekyll-action@2.0.5
         env:
           JEKYLL_PAT: ${{ secrets.GH_PAT }}
