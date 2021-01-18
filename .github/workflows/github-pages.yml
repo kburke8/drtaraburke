@@ -18,6 +18,7 @@ jobs:
         with:
           node-version: '14'
       # Install PurgeCSS (needs to be in your package.json)
+      - run: node --version
       - run: npm install
       - run: npm i -g purgecss
       - uses: helaili/jekyll-action@2.0.5
