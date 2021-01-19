@@ -10,7 +10,7 @@ Jekyll::Hooks.register(:site, :post_write) do |_site|
     #/github/workspace/_plugins/hooks  
    #File.chmod(0777,"/home/runner/work/drtaraburke/drtaraburke/node_modules/.bin/purgecss")
     File.chmod(0777,"./node_modules/.bin/purgecss")
-    system("./node_modules/.bin/purgecss --css _site/assets/css/*.css --content _site/**/*.html --safelist bg-light --output _site/assets/css")
+    system("./node_modules/.bin/purgecss --css _site/assets/css/*.css --content _site/**/*.html --safelist bg-light --output _site/assets/css/purged")
     #system("/home/runner/work/drtaraburke/drtaraburke/node_modules/.bin/purgecss --css _site/assets/css/*.css --content _site/**/*.html --safelist bg-light --output _site/assets/css")
     #system("/home/runner/work/drtaraburke/drtaraburke/node_modules/.bin/purgecss --css _site/assets/css/*.css --content _site/**/*.html --safelist bg-light")
     #system("/github/workspace/node_modules/.bin/purgecss --css _site/assets/css/bootstrap.min.css --content _site/**/*.html --safelist bg-light --output _site/assets/css")
