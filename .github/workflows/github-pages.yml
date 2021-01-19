@@ -27,8 +27,8 @@ jobs:
           node-version: '14'
       # Install PurgeCSS (needs to be in your package.json)
       - run: node --version
-      - run: npm install
-      - run: npm i -g purgecss
+      - run: npm ci
+      - run: npm run css:rel
       #- run: purgecss --css _site/assets/css/*.css --content _site/**/*.html --safelist bg-light
       #- run: purgecss --css _site/assets/css/*.css --content _site/**/*.html --safelist bg-light --output ./_site/assets/css
       - name: 🚀 deploy
