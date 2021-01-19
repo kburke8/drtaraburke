@@ -49,9 +49,14 @@
 
   <meta name="twitter:card" content="summary_large_image">
 
-
+  <style type="text/css">
+  
+    {% include bootstrap.min.css %}
+    {% include agency.css %}
+    
+  </style>
   <!-- Bootstrap core CSS -->
-  <link href="{{site.baseurl}}/assets/css/bootstrap.min.css" rel="stylesheet">
+  <!-- <link href="{{site.baseurl}}/assets/css/bootstrap.min.css" rel="stylesheet"> -->
 
   <!-- Custom fonts for this template -->
   <link rel="preload" href="{{site.baseurl}}/assets/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -74,7 +79,7 @@
 {% endif %}
   <!-- Custom styles for this theme -->
   <!--<link href="assets/css/agency.min.css" rel="stylesheet">-->
-  <link href="{{site.baseurl}}/assets/css/agency.css" rel="stylesheet">
+  <!-- <link href="{{site.baseurl}}/assets/css/agency.css" rel="stylesheet"> -->
   
   <!-- Page container change top padding when nav shrinks -->
   {% if page.layout == "page" or page.layout == "post" or page.layout == "service" %}
