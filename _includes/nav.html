@@ -19,7 +19,7 @@
         {% if link.url %}
 		    <a class="nav-link js-scroll-trigger" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
       {% elsif link.redirect %}
-		    <a class="nav-link js-scroll-trigger" href="{{ link.redirect}}" target="_blank">{{ link.title }}</a>
+		    <a class="nav-link js-scroll-trigger" href="{{ link.redirect}}" target="_blank" rel="noreferrer">{{ link.title }}</a>
 		  {% elsif link.section %}
 		    <a class="nav-link js-scroll-trigger" href="{{ site.baseurl }}/#{{ link.section }}">{{ link.title }}</a>
 		  {% else %}
