@@ -10,7 +10,7 @@
     <div class="row">
     {% for person in site.data.sitetext.team.people %}
       <div class="col-sm-6 team-member">
-        <img class="" src="{{ person.image }}" alt="{{ person.alt }}">
+        <img class="lazyload" data-src="{{ person.image }}" alt="{{ person.alt }}">
       </div>
       <div class="col-sm-6 team-member">
         <h4>{{ person.name }}</h4>
