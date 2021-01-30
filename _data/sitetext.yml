@@ -3,7 +3,7 @@ header:
     text: Naturopathic Doctor
     text2: Thyroid & Adrenal \| Hormones \| Telemedicine
     text3: Scottsdale, Arizona
-    button: Free Consultation
+    button: Discovery Call
     buttonlink: "https://drtaraburke.com/book" # "#{section}" or "URL/page link"
 
 services:
