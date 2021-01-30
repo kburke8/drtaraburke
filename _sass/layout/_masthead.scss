@@ -7,6 +7,10 @@ header.masthead {
   background-attachment: scroll;
   background-position: right;
   background-size: cover;
+  .carousel-caption{
+    bottom: none;
+    top: 5%;
+  }
   .intro-text {
     padding-top: 150px;
     padding-bottom: 100px;
@@ -51,6 +55,10 @@ header.masthead {
 @media(min-width:992px) {
   header.masthead {
     background-position: center center;
+    .carousel-caption{
+      bottom: none;
+      top: 0%;
+    }
     .intro-text {
       padding-top: 250px;
       padding-bottom: 200px;
