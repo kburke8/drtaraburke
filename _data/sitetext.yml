@@ -44,7 +44,7 @@ team:
     people:
       - name: "Dr. Tara Burke"
         role: "Naturopathic Medical Doctor"
-        image: assets/img/team/1.webp
+        image: assets/img/team/dr-tara-burke-nmd.webp
         alt: Dr. Tara Burke, NMD
         social:
           - url: https://www.facebook.com/drtaraburke?rel=noreferrer
