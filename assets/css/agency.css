@@ -98,6 +98,21 @@ header.masthead .intro-text .intro-location { font-size: 2em; font-weight: 100; 
 
 .service ul > li > ul { margin-bottom: 12px; }
 
+summary { font-size: 1.25rem; font-weight: 600; background-color: #fff; color: #333; padding: 1rem; margin-bottom: 1rem; outline: none; border-radius: 0.25rem; text-align: left; cursor: pointer; position: relative; }
+
+details > summary::after { position: absolute; content: "+"; right: 20px; }
+
+details[open] > summary::after { position: absolute; content: "-"; right: 20px; }
+
+details > summary::-webkit-details-marker { display: none; }
+
+details[open] summary ~ * { animation: sweep .5s ease-in-out; }
+
+@keyframes sweep { 0% { opacity: 0;
+    margin-top: -10px; }
+  100% { opacity: 1;
+    margin-top: 0px; } }
+
 .team-member { margin-bottom: 0px; text-align: center; }
 
 .team-member img { width: 349px; height: 525px; border: 7px solid rgba(0, 0, 0, 0.1); }

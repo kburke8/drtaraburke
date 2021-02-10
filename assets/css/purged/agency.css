@@ -56,6 +56,13 @@ img::-moz-selection { background: transparent; }
 
 @media (min-width: 992px) { #mainNav { padding-top: 25px; padding-bottom: 25px; -webkit-transition: padding-top 0.3s, padding-bottom 0.3s; -moz-transition: padding-top 0.3s, padding-bottom 0.3s; transition: padding-top 0.3s, padding-bottom 0.3s; border: none; background-color: transparent; } #mainNav .navbar-brand { font-size: 1.75em; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; transition: all 0.3s; } #mainNav .navbar-nav .nav-item .nav-link { padding: 1.1em 1em !important; } }
 
+summary { font-size: 1.25rem; font-weight: 600; background-color: #fff; color: #333; padding: 1rem; margin-bottom: 1rem; outline: none; border-radius: 0.25rem; text-align: left; cursor: pointer; position: relative; }
+
+@keyframes sweep { 0% { opacity: 0;
+    margin-top: -10px; }
+  100% { opacity: 1;
+    margin-top: 0px; } }
+
 section#contact { background-color: #212529; background-repeat: no-repeat; background-position: center; }
 
 section#contact .section-heading { color: #fff; }
