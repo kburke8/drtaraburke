@@ -45,7 +45,7 @@ team:
       - name: "Dr. Tara Burke"
         role: "Naturopathic Medical Doctor"
         image: assets/img/team/dr-tara-burke-nmd.webp
-        alt: Dr. Tara Burke, NMD
+        alt: Scottsdale Naturopathic Doctor
         social:
           - url: https://www.facebook.com/drtaraburke?rel=noreferrer
             icon: "fab fa-facebook-f"
@@ -90,7 +90,7 @@ faq:
       <p>Established Patient Follow- Up (30 min) - $115</p>
       <p>Acupuncture New Patient (45 min) - $150</p>
       <p>Acupuncture Existing Patient (30min) - $75</p>
-      <p>For additional services or questions please contact the office at (480) 702-1445. Please note if you have extensive health concerns or would like extra time we offer extended time slots at $75 for every additional 15min."</p>
+      <p>For additional services or questions please contact the office at (480) 702-1445. Please note if you have extensive health concerns or would like extra time we offer extended time slots at $75 for every additional 15min.</p>
   
 contact:
     title: "Contact Blossom Wellness"
