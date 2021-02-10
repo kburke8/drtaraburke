@@ -140,7 +140,7 @@
         "@type": "Answer",
         "text": "{{faq.answer}}"
       }
-    },
+    }{% if forloop.last != true %},{% endif %}
     {% endfor %}
     ]
   }
