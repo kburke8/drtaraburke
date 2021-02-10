@@ -58,7 +58,24 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700&display=swap"></noscript>
 
 {% if page.layout == "home" %}
-
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {%- for faq in site.data.sitetext.faq -%}
+    {
+      "@type": "Question",
+      "name": "{{faq.question}}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{faq.answer}}"
+      }
+    },
+    {% endfor %}
+    ]
+  }
+  </script>
 
 <link rel="preload" href="{{site.baseurl}}/assets/img/header-bg.webp" as="image" type="image/webp">
 <link rel="preload" href="{{site.baseurl}}/assets/css/webfonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
@@ -89,43 +106,63 @@
 	gtag('config', '{{ site.google.analytics }}');
   </script>
   <!-- End Google Analytics -->
-  <script type="application/ld+json">
-    {
-      "@context" : "http://schema.org",
-      "@type" : "LocalBusiness",
-      "name" : "Dr. Tara Burke, NMD",
-      "image" : "{% if page.image %}{{page.image}}{% else %}https://drtaraburke.com/assets/img/team/1.webp{% endif %}",
-      "telephone" : "(480) 702-1445",
-      "priceRange" : "$",
-      "address" : {
-        "@type" : "PostalAddress",
-        "streetAddress" : "8700 E. Vista Bonita Dr. Suite 200",
-        "addressLocality" : "Scottsdale",
-        "addressRegion" : "Arizona",
-        "postalCode" : "85255"
+{% endif %}
+<script type="application/ld+json">
+  {
+    "@context" : "http://schema.org",
+    "@type" : "LocalBusiness",
+    "name" : "Dr. Tara Burke, NMD",
+    "image" : "{% if page.image %}{{page.image}}{% else %}https://drtaraburke.com/assets/img/team/1.webp{% endif %}",
+    "telephone" : "(480) 702-1445",
+    "priceRange" : "$",
+    "address" : {
+      "@type" : "PostalAddress",
+      "streetAddress" : "8700 E. Vista Bonita Dr. Suite 200",
+      "addressLocality" : "Scottsdale",
+      "addressRegion" : "Arizona",
+      "postalCode" : "85255"
+    },
+    "url" : "https://drtaraburke.com/",
+    "aggregateRating" : {
+      "@type" : "AggregateRating",
+      "ratingValue" : "5.0",
+      "bestRating" : "5.0",
+      "worstRating" : "5.0",
+      "ratingCount" : "2"
+    },
+    "review": {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
       },
-      "url" : "https://drtaraburke.com/",
-      "aggregateRating" : {
-        "@type" : "AggregateRating",
-        "ratingValue" : "5.0",
-        "bestRating" : "5.0",
-        "worstRating" : "5.0",
-        "ratingCount" : "2"
+      "author": {
+        "@type": "Person",
+        "name": "Rebecca M."
       },
-      "review": {
-        "@type": "Review",
-        "reviewRating": {
-          "@type": "Rating",
-          "ratingValue": "5"
-        },
-        "author": {
-          "@type": "Person",
-          "name": "Rebecca M."
-        },
-        "reviewBody": "Dr. Burke is extremely kind, caring, and understanding.  No one enjoys going to the doctor, but I look forward to our appointments together.  I have recommended her to my friends, and I recommend her to you."
-      }
+      "reviewBody": "Dr. Burke is extremely kind, caring, and understanding.  No one enjoys going to the doctor, but I look forward to our appointments together.  I have recommended her to my friends, and I recommend her to you."
     }
   }
-    </script>
+}
+  </script>
+{% if page.layout == "home" %}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {%- for faq in site.data.sitetext.faq -%}
+    {
+      "@type": "Question",
+      "name": "{{faq.question}}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{faq.answer}}"
+      }
+    },
+    {% endfor %}
+    ]
+  }
+  </script>
 {% endif %}
 </head>
