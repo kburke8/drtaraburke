@@ -127,7 +127,7 @@
   <body id="page-top">
 
       <!-- Navigation -->
-  <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav" style="background-color:#212529">
+  <nav class="navbar navbar-expand-lg navbar-dark fixed-top navbar-other-page" id="mainNav">
     <div class="container">
 	  <a class="navbar-brand js-scroll-trigger" href="/#">Blossom Wellness</a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -137,12 +137,17 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav text-uppercase ml-auto"><li class="nav-item">
         
+		    <a class="nav-link js-scroll-trigger" href="/#services">Services</a>
+		  
+          </li>
+		<li class="nav-item">
+        
 		    <a class="nav-link js-scroll-trigger" href="/#about">About</a>
 		  
           </li>
 		<li class="nav-item">
         
-		    <a class="nav-link js-scroll-trigger" href="/#services">Services</a>
+		    <a class="nav-link js-scroll-trigger" href="/#faq">FAQ</a>
 		  
           </li>
 		<li class="nav-item">
@@ -173,9 +178,9 @@
   </nav>
   <!-- End Navigation -->
 
-<div class="container" id="pagecontainer">
-<div class="center">
-    <h1>Let's Get Started! Become a Patient Today!</h1>
+<div class="container book" id="pagecontainer">
+<div>
+    <h1>Let's Get Started!</h1>
 </div>
 
 <hr />
@@ -184,24 +189,23 @@
 
 <p>If you are a potential patient wanting to see if Dr. Burke is the right fit for your health goals, she offers complimentary 15-minute Discovery Calls to find out about your needs and get to know you.</p>
 
-<hr />
-
 <div class="bg-notice">
   <div class="notice">
 
-    <h3 id="important-clinic-information--novel-coronavirus-covid-19">Important Clinic Information- Novel Coronavirus (COVID-19)</h3>
-    <p>Due to COVID-19 Dr. Burke has limited availability for in-person clinic visits. This allows us to appropriately space clinic visits to ensure sanitation and limit overlap of patients in the waiting room. We are continuing to encourage all patient appointments to be scheduled via tele-medicine or a phone consult. Our top priority is keeping our patients and families safe! Dr. Burke will be taking extra steps and precautions for in-person visits. All patients are required to wear a mask/face-covering.</p>
+    <h3 id="important-clinic-information---novel-coronavirus-covid-19">Important Clinic Information - Novel Coronavirus (COVID-19)</h3>
+    <p>Due to COVID-19 Dr. Burke has limited availability for in-person clinic visits. This allows us to appropriately space clinic visits to ensure sanitation and limit overlap of patients in the waiting room. Our top priority is keeping our patients and families safe! Dr. Burke will be taking extra steps and precautions for in-person visits. All patients are required to wear a mask/face-covering.</p>
+
+    <p>For your peace of mind, please know that Dr. Burke has been fully vaccinated for COVID-19.</p>
 
     <p>We will continue to keep you apprised with clinic updates should the situation change. We greatly appreciate all of your support, cooperation, and understanding in our efforts to keep the community healthy.</p>
   </div>
 </div>
 
-<hr />
 
 </div>
 <div class="bg-dark">
     <div class="container">
-<div class="page-section">
+        <div class="page-section schedule">
   <div class="bg-dark">
     <iframe id="schedulerFrame" width="100%" height="675" src="https://ehr.charmtracker.com/publicCal.sas?method=getCal&digest=a04fd550fb7a9f1383d70ecc6f96bb094672aa6c1136e42720d614dbaeaa278944ee8f74b0eb7401cea42145a02a0348debf17855dc5f624" style="overflow:hidden;" frameborder="0"></iframe>
   </div>
@@ -209,27 +213,26 @@
     </div>
 </div>
 <div class="container">
+    <div class="googlemap">
+  <div class="page-section">
+    <div>
+      <h2>Location</h2>
+      <iframe scrolling="no" height="400px" width="100%" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=8700%20E%20Vista%20Bonita%20Dr%20%23200&amp;t=m&amp;z=14&amp;output=embed&amp;iwloc=near" title="8700 E Vista Bonita Dr #200" aria-label="8700 E Vista Bonita Dr #200" frameborder="0"></iframe>
+    </div>
+    <div>
+      <h2>Existing Patients</h2>
+    </div>
     
-<div class="page-section">
-  <div class="center">
-    <h2>Location</h2>
-    <iframe scrolling="no" height="400px" width="100%" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=8700%20E%20Vista%20Bonita%20Dr%20%23200&amp;t=m&amp;z=14&amp;output=embed&amp;iwloc=near" title="8700 E Vista Bonita Dr #200" aria-label="8700 E Vista Bonita Dr #200" frameborder="0"></iframe>
-  </div>
-  <div class="center padding-15">
-
-  <h2>Existing Patients</h2>
-</div>
-  
-  <div class="center padding-15">
-    <a href="https://phr.charmtracker.com/login.sas?FACILITY_ID=3b031348cbc6916e236dc9e6cd06457ba04fd550fb7a9f132e62fe42203ae47d7c54d4b9c6616d57" target="_blank" class="btn btn-primary btn-block" role="button">
-            <span>
-                <i aria-hidden="true" class="far fa-clipboard"></i>		
-            </span>
-            <span>Patient Portal</span>
-    </a>
+    <div id="patient-portal">
+      <a href="https://phr.charmtracker.com/login.sas?FACILITY_ID=3b031348cbc6916e236dc9e6cd06457ba04fd550fb7a9f132e62fe42203ae47d7c54d4b9c6616d57" target="_blank" class="btn btn-primary btn-block" role="button">
+        <span>
+            <i aria-hidden="true" class="far fa-clipboard"></i>		
+        </span>
+        <span>Patient Portal</span>
+      </a>
+    </div>
   </div>
 </div>
-
 </div>
 <!-- Contact -->
   <section class="page-section" id="contact">
@@ -288,7 +291,7 @@
 
 
 	  <!-- Footer -->
-<footer class="footer" id="footer" style="background-color:white;">
+<footer class="footer" id="footer">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-4">
