@@ -33,6 +33,9 @@ google:
   analytics: G-X6KZV35E1F #Google Analytics tracking code here
   # tagmanager: 
 
+sass:
+    style: compressed
+
 collections:
   services:
     layout: service
