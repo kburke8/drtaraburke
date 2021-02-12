@@ -59,38 +59,39 @@ faq:
   - question: What should I expect at my first appointment?
     answer: |
       <p>
-      With your first one hour appointment, we are able to fully discuss and understand your past and present health concerns. 
-      We will review your health goals, dietary intake, medical history, medications and supplements. In addition, we will go through any previous lab work and imaging. 
-      After reviewing these items, sometimes additional lab work and imaging will be recommended to further asses your unique case. 
-      At the end of the visit, you will be provided with an individualized treatment plan and encouraged to ask questions to help educate you on your path to wellness!
+      At your first appointment Dr. Burke will discuss and understand your past and present health concerns. 
+      She will review your health goals, medical history, as well as medications and supplements. 
+      In addition, she will go through any indicated previous lab work and imaging provided. 
+      After reviewing these items, any additional lab work and imaging will be recommended to further asses your unique case.
+      At the end of the visit, you will be provided with an individualized treatment plan and encouraged to ask questions to educate and empower you on your path to wellness!
       </p>
     open: true
   - question: Do you accept insurance?
     answer: |
-      <p>At this time we do not contract with insurance. We are better able to provide the services patients require with shorter wait times, longer and meaningful visits, and better patient care with a cash based model. </p>
-      <p>While we are not “in network” with any insurance plans, you may be able to receive reimbursement directly from the insurance company. Please check with your insurance company in order to determine what they require. Many insurance companies will also cover much of the lab work our provider may order.</p>
+      <p>At this time we do not contract with insurance. We are better able to provide the services patients require with shorter wait times and longer, more meaningful visits.  </p>
+      <p>While we are not “in-network” with any insurance plans, you may be able to receive reimbursement directly from the insurance company. In addition, many patients choose to use HSA (Health Savings Account) cards to pay for their appointments.  Please check with your insurance company in order to determine what they require. Many insurance companies will also cover much of the lab work our provider may order.</p>
       <p> Dr. Burke works with every budget to provide optimal care to her patients.<p>
   - question: What conditions do you treat?
     answer: |
-      <p>Dr. Burke is well versed in a variety of health conditions and concerns. However, she has special interest in Thyroid, Adrenal, Hormonal Balancing, and Women's Medicine. Please see the service page for additional information.</p>
+      <p>Dr. Burke is well versed in a variety of health conditions and concerns. However, her practice focuses in Thyroid, Adrenal, Hormonal Balancing, Women's Medicine, and Digestive Health. Please see the services page for additional information.</p>
   - question: How many visists are required?
     answer: |
-      <p>Naturopathic and Integrative medicine often takes time to provide complete wellness. Giving a generalized time frame is difficult as each patient and condition is different, this is what makes the naturopathic approach to medicine so unique. </p>
-      <p>As a general rule you may start to feel improvements after the first visit but you should expect a few visits over 3 months to see significant changes.</p>
+      <p>Dr. Burke focuses in on finding the root cause of illness/unbalance, and this is what makes the naturopathic approach to medicine so unique.</p>
+      <p>Giving a generalized time frame is difficult as each patient and condition is different. As a general rule, you may start to feel improvements after the first visit - but you should expect a few visits to see significant changes.</p>
       <p>Remember, for many chronic conditions, you didn’t start feeling poorly overnight - it probably took days, months, or even years. The longer a conditions has been present, the longer it may take to heal.</p>
       <p>A better time frame can be established after your initial consultation based on your health concerns, health goals, and treatment plan.</p>
   - question: Can you prescribe medications and controlled substances? 
     answer: |
       <p>Yes, in the state of Arizona Naturopathic Doctors are able to prescribe medications.</p>
-      <p>They can also acquire a DEA number and can prescribe Schedule III, IV and V controlled substances.</p>
+      <p>Dr. Burke has a DEA number and can prescribe Schedule III, IV and V controlled substances, when indicated.</p>
   - question: How much does a visit cost?
     answer: |
-      <p>15 min Discovery Calls (New Patients Only) to discuss your health goals and options - Complimentary</p>
-      <p>New Patient Visit (60 min) - $230</p>
-      <p>Established Patient Follow- Up (30 min) - $115</p>
-      <p>Acupuncture New Patient (45 min) - $150</p>
-      <p>Acupuncture Existing Patient (30min) - $75</p>
-      <p>For additional services or questions please contact the office at (480) 702-1445. Please note if you have extensive health concerns or would like extra time we offer extended time slots at $75 for every additional 15min.</p>
+      <p>15 min Discovery Calls (New Patients Only) to discuss your health goals and options - <b>Complimentary</b></p>
+      <p>New Patient Visit (60 min) - <b>$230</b></p>
+      <p>Established Patient Follow- Up (30 min) - <b>$115</b></p>
+      <p>Acupuncture New Patient (45 min) - <b>$150</b></p>
+      <p>Acupuncture Existing Patient (30min) - <b>$75</b></p>
+      <p>For additional services or questions please contact the office at <a href="tel:+4807021445">(480) 702-1445</a>. Please note, if you have extensive health concerns or would like extra time we offer extended time slots at $75 for every additional 15min.</p>
   
 contact:
     title: "Request Info"
