@@ -1,0 +1,29 @@
+// Styling for the team section
+.about{
+  hr  {
+    border: 0;
+    height: 3px;
+    background: $gray-300;
+    background-image: linear-gradient(to right, $gray-300, $pink, $gray-300);
+    margin-bottom: 50px;
+    margin-top: 0px;
+  }
+  .team-member {
+    margin-bottom: 0px;
+    text-align: center;
+    img {
+      width: 349px;
+      height: 525px;
+      border: 7px solid fade-out($gray-800, 0.9);
+      border-radius: 10px;
+    }
+    h4 {
+      margin-top: 25px;
+      margin-bottom: 0;
+      text-transform: none;
+    }
+    p {
+      margin-top: 0;
+    }
+  }
+}

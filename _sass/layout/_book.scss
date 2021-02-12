@@ -1,42 +1,25 @@
-.center {
-  margin: auto;
-  width: 50%;
-  text-align: center;
-}
-.bg-notice {
-  background-color: pink;
-  border: 2px;
-  border-radius: 2px;
-  border-style: solid;
-  border-color: black;
-}
-
-.notice {
-  padding: 15px;
-}
-
-.bg-dark {
-  background-color: $gray-900;
-}
-
-.page-section {
-  padding: 75px 0;
-  h2.section-heading {
-    font-size: 40px;
-    margin-top: 0;
-    margin-bottom: 15px;
+.book{
+  h1 {
+    text-align: center;
   }
-  h3.section-subheading {
-    font-size: 16px;
-    font-weight: 400;
-    font-style: italic;
-    margin-bottom: 75px;
-    text-transform: none;
-    @include serif-font;
+  .bg-notice {
+    border: 2px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: $gray-800;
+    box-shadow: 5px 5px $gray-500;
+    margin-top:50px;
+    margin-bottom: 50px;
   }
-}
-@media(min-width:768px) {
-  section {
-    padding: 150px 0;
+  .notice {
+    padding: 15px;
+  }
+  hr  {
+    border: 0;
+    height: 3px;
+    background: $gray-300;
+    background-image: linear-gradient(to right, $gray-300, $pink, $gray-300);
+    margin-bottom: 25px;
+    margin-top: 25px;
   }
 }

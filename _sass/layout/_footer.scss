@@ -2,6 +2,7 @@
 .footer {
   padding: 25px 0;
   text-align: center;
+  background-color: $white;
   span.copyright {
     font-size: 90%;
     line-height: 40px;
@@ -32,11 +33,31 @@ ul.social-buttons {
       color: white;
       border-radius: 100%;
       outline: none;
-      background-color: $gray-900;
+      background-color: $pink;
+      transition: all .2s ease-in-out;
       &:active,
       &:focus,
       &:hover {
-        background-color: $primary;
+        background-color: darken($pink, 5%);
+        transform: scale(1.1);
+      }
+      i{
+        -webkit-transition: all 0.5s ease;
+          -moz-transition: all 0.5s ease;
+            -o-transition: all 0.5s ease;
+            -ms-transition: all 0.5s ease;
+                transition: all 0.5s ease;
+        transition: all .2s ease-in-out;
+      }
+      
+      i:hover {
+        color: darken($primary, 5%);
+        transform: scale(1.1);
+        -webkit-transform: rotate(-20deg);
+          -moz-transform: rotate(-20deg);
+            -o-transform: rotate(-20deg);
+            -ms-transform: rotate(-20deg);
+                transform: rotate(-20deg);
       }
     }
   }

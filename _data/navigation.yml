@@ -1,9 +1,12 @@
 nav:
+  - title: "Services"
+    section: services
+
   - title: "About"
     section: about
 
-  - title: "Services"
-    section: services
+  - title: "FAQ"
+    section: faq
 
   - title: "Blog"
     url: /posts

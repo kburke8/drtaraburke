@@ -1,59 +1,75 @@
 // Styling for the services section
-.service-heading {
-
-    margin: 15px 0;
-    text-transform: none;
-    color: black;
-}
-
-.service-link {
-  h4:hover {
-    color: $primary !important
+.services{ 
+  padding-bottom: 50px !important;
+  .service-heading {
+      margin: 15px 0;
+      text-transform: none;
+      color: $gray-700;
   }
 
-    i{
-      -webkit-transition: all 0.5s ease;
-         -moz-transition: all 0.5s ease;
-           -o-transition: all 0.5s ease;
-          -ms-transition: all 0.5s ease;
-              transition: all 0.5s ease;
-    }
-    
-    i:hover {
-      color: darken($white, 5%);
-      -webkit-transform: rotate(-20deg);
-         -moz-transform: rotate(-20deg);
-           -o-transform: rotate(-20deg);
-          -ms-transform: rotate(-20deg);
-              transform: rotate(-20deg);
-    }
-}
+  .section-subheading {
+    margin-bottom: 25px !important;
+  }
 
-.service {
-  padding-bottom: 50px;
-  h1 {
-    padding-bottom: 25px;
-    letter-spacing: 1px;
-    text-decoration: underline;
+  .section-heading {
+    color: $gray-700;
   }
-  h2 {
-    padding-bottom: 15px;
-  }
-  h5 {
-    padding-bottom: 5px;
-  }
+
   hr  {
     border: 0;
-    height: 2px;
-    background: #333;
-    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+    height: 3px;
+    background: $gray-300;
+    background-image: linear-gradient(to right, $gray-300, $pink, $gray-300);
+    margin-bottom: 50px;
+    margin-top: 0px;
   }
-  ul > {
-   li > {
-    margin: 5px;
-    ul {
-      margin-bottom: 12px;
+
+  #hr2 {
+    margin-top: 35px;
+  }
+  .service-link {
+    h4:hover {
+      color: darken($pink, 10%) !important;
     }
+
+      i{
+        -webkit-transition: all 0.5s ease;
+          -moz-transition: all 0.5s ease;
+            -o-transition: all 0.5s ease;
+            -ms-transition: all 0.5s ease;
+                transition: all 0.5s ease;
+      }
+      
+      i:hover {
+        color: darken($pink, 5%);
+        -webkit-transform: rotate(-20deg);
+          -moz-transform: rotate(-20deg);
+            -o-transform: rotate(-20deg);
+            -ms-transform: rotate(-20deg);
+                transform: rotate(-20deg);
+      }
+  }
+
+  .service {
+    padding-bottom: 50px;
+    h1 {
+      padding-bottom: 25px;
+      letter-spacing: 1px;
+      text-decoration: underline;
+    }
+    h2 {
+      padding-bottom: 15px;
+    }
+    h5 {
+      padding-bottom: 5px;
+    }
+    ul > {
+    li > {
+      margin: 5px;
+      ul {
+        margin-bottom: 12px;
+      }
+      }
     }
   }
 }

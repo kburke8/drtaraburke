@@ -18,11 +18,12 @@ url    : "https://drtaraburke.com" # the base hostname & protocol for your site,
 baseurl: "" # the subpath of your site, e.g. /blog
 
 
-title      : Dr. Tara Burke, NMD
-subtitle   : Blossom Wellness
-phone      : (480) 702-1445
-email      : tara@drtaraburke.com #this is also the email contact forms will go to
-author     : Dr. Tara Burke
+title           : Dr. Tara Burke, NMD
+subtitle        : Blossom Wellness
+phone           : (480) 702-1445
+functionalPhone : "4807021445"
+email           : tara@drtaraburke.com #this is also the email contact forms will go to
+author          : Dr. Tara Burke
 formspree_form_path: moqpykav
 # logo:     #optional, defaults to site title
   # path: assets\img\logo.webp

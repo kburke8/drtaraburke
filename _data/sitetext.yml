@@ -65,7 +65,7 @@ faq:
       After reviewing these items, any additional lab work and imaging will be recommended to further asses your unique case.
       At the end of the visit, you will be provided with an individualized treatment plan and encouraged to ask questions to educate and empower you on your path to wellness!
       </p>
-    open: true
+    # open: true
   - question: Do you accept insurance?
     answer: |
       <p>At this time we do not contract with insurance. We are better able to provide the services patients require with shorter wait times and longer, more meaningful visits.  </p>
@@ -91,7 +91,7 @@ faq:
       <p>Established Patient Follow- Up (30 min) - <b>$115</b></p>
       <p>Acupuncture New Patient (45 min) - <b>$150</b></p>
       <p>Acupuncture Existing Patient (30min) - <b>$75</b></p>
-      <p>For additional services or questions please contact the office at <a href="tel:+4807021445">(480) 702-1445</a>. Please note, if you have extensive health concerns or would like extra time we offer extended time slots at $75 for every additional 15min.</p>
+      <p>For additional services or questions please contact the office at <a href="tel:+{{site.functionalPhone}}">{{site.phone}}</a>. Please note, if you have extensive health concerns or would like extra time we offer extended time slots at $75 for every additional 15min.</p>
   
 contact:
     title: "Request Info"
