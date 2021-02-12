@@ -1,0 +1,42 @@
+.center {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+.bg-notice {
+  background-color: pink;
+  border: 2px;
+  border-radius: 2px;
+  border-style: solid;
+  border-color: black;
+}
+
+.notice {
+  padding: 15px;
+}
+
+.bg-dark {
+  background-color: $gray-900;
+}
+
+.page-section {
+  padding: 75px 0;
+  h2.section-heading {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  h3.section-subheading {
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 75px;
+    text-transform: none;
+    @include serif-font;
+  }
+}
+@media(min-width:768px) {
+  section {
+    padding: 150px 0;
+  }
+}

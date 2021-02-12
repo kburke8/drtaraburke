@@ -93,8 +93,10 @@ faq:
       <p>For additional services or questions please contact the office at (480) 702-1445. Please note if you have extensive health concerns or would like extra time we offer extended time slots at $75 for every additional 15min.</p>
   
 contact:
-    title: "Contact Blossom Wellness"
-    text: "EXISTING PATIENTS: Please use Patient Portal for ANY messages."
+    title: "Request Info"
+    text: |
+     <p>Please reach out with any questions, comments or to request an appointment. I can't wait to hear from you! </p>
+     <p>EXISTING PATIENTS: Please use Patient Portal for ANY messages.</p>
     section: contact
     
 footer:
