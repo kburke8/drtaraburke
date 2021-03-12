@@ -10,12 +10,18 @@ header.masthead {
   .carousel-caption{
     bottom: none;
     top: 5%;
+    right: 0%;
+    left: 0%;
+  }
+  .height-907{
+    height: 585.75px;
+    object-fit: cover;
   }
   .intro-text {
-    padding-top: 150px;
+    padding-top: 100px;
     padding-bottom: 100px;
     .intro-lead-in {
-      font-size: 2em;
+      font-size: 1.5em;
       font-weight: 100;
       line-height: 40px;
       margin-bottom: 25px;
@@ -58,6 +64,10 @@ header.masthead {
     .carousel-caption{
       bottom: none;
       top: 0%;
+    }
+    .height-907{
+      height: 907px;
+      object-fit: cover;
     }
     .intro-text {
       padding-top: 250px;
