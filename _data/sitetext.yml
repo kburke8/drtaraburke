@@ -15,7 +15,7 @@ services:
         link: "thyroid-health"
         desc: "With the aid of lab testing, we can measure a baseline of your thyroid’s health and then create a plan to manage and improve your thyroid’s function. Check out this [video](https://www.youtube.com/watch?v=oo3oTNJ0DT0) to learn the basics!"
         icon: fas fa-plus-square #find more at https://fontawesome.com/icons
-      - title: "Hormone Balancing"
+      - title: "Hormone Balancing and Women's Medicine"
         link: "hormone-balancing"
         desc: "Hormone imbalances are common but should not be considered normal! Dr. Burke will help guide you and offer the best options available to balance your hormones."
         icon: fas fa-balance-scale-right       
@@ -27,9 +27,9 @@ services:
         link: "digestive-health"
         desc: "Digestive Health doesn’t always end in the gut itself. Hormones, stress, lifestyle can all impact the gastrointestinal system, this is why finding the root cause of digestive health is incredibly important. Dr. Burke works with her patients to take back control of their digestive health."
         icon: fas fa-diagnoses
-      - title: "Women's Medicine"
-        link: "womens-medicine"
-        desc: "Diagnose and treat common women’s health issues through integrative methods and alternative treatments. Dr. Burke is here for her patients through all of life’s transitions."
+      - title: "Polycystic Ovarian Syndrome (PCOS)"
+        link: "pcos"
+        desc: " Dr. Burke often blends conventional and alternative medicine to provide comprehensive care involving PCOS patients. She will provide a comprehensive individualized treatment plan – including dietary and lifestyle recommendations, supplemental/ herbal support, and, if appropriate, will discuss pharmaceutical options."
         icon: fas fa-female
       - title: "Menopause Consult"
         link: "menopause-consult"

@@ -7,7 +7,7 @@ description: In recent years, Hormone Balancing has come front and center when i
 
 # {{page.title}}
 
-Dr. Burke provides a variety of options for hormone balancing for women of all ages – from regulating irregular cycles to post-menopause, she’s got you covered!
+Dr. Burke is passionate about helping women feel their very best! Dr. Burke provides a variety of options for hormone balancing for women of all ages – from regulating irregular cycles to post-menopause, she’s got you covered!
 
 In recent years, focus on women’s health has gone from just a yearly PAP smear and breast exam to discussion around what optimal women’s health is. Women feel empowered to talk to their health care providers about topics that were previously perceived as “normal”- things like painful periods and PMS symptoms which include cravings, mood changes, acne, and changes during perimenopause like lowered libido, hot flashes, and brain fog. Seeking treatment for hormone balance means that women are finally able to start the journey to optimal health and complete wellness.
 
@@ -28,6 +28,21 @@ In recent years, focus on women’s health has gone from just a yearly PAP smear
 * Breast Health
 * Weight Management
 * And More
+
+## Common Women’s Medicine Concerns Managed by Dr. Burke:
+
+* Irregular Cycle
+* Estrogen Dominance
+* Polycystic Ovarian Syndrome (PCOS)
+* Acne
+* Painful Cycles
+* PMS
+* Breast Health
+* Weight Management
+* Menopausal Symptom Management
+* Fatigue
+* Thyroid Management
+* Adrenal Health 
 
 ***
 
@@ -86,6 +101,19 @@ For more information please check out this article.
 #####  I’m not interested in bioidentical hormones but I would like to balance my hormones, can you help?
 
 Yes, there are so many other options out there. Various herbals and supplements can effectively help with a variety of symptoms and conditions. I work with women to meet them where they are at and to honor their choices.  
+
+##### Can we discuss birth control options?
+
+Yes! Dr. Burke can provide information to help you make an informed choice about your reproductive health.
+
+##### Do you provide Well Women’s exams?
+
+At this time Dr. Burke will refer out for Well Women’s exams (routine gynecologic care such as PAP and breast exams). But she would love to be adjunctive in your care.
+
+##### What Lab options do you have?
+
+Depending on your health concerns, Dr. Burke will recommend Serum (Blood), Salivary, and/or Urine Testing. Dr. Burke can discuss various insurance and cash-pay lab options to best fit your needs.
+
 ##### How can I book an appointment?
 
 Please use the online appointment scheduler, contact the doctor via the form below, or call the office at 480- 702-1445. We would love to see how we can help you feel optimal!
