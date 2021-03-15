@@ -33,12 +33,12 @@ ul.social-buttons {
       color: white;
       border-radius: 100%;
       outline: none;
-      background-color: $pink;
+      background-color: $primary;
       transition: all .2s ease-in-out;
       &:active,
       &:focus,
       &:hover {
-        background-color: darken($pink, 5%);
+        background-color: darken($primary, 5%);
         transform: scale(1.1);
       }
       i{
@@ -51,7 +51,7 @@ ul.social-buttons {
       }
       
       i:hover {
-        color: darken($primary, 5%);
+        color: darken($gray-600, 5%);
         transform: scale(1.1);
         -webkit-transform: rotate(-20deg);
           -moz-transform: rotate(-20deg);
