@@ -72,4 +72,10 @@
       }
     }
   }
+
+  @media(max-width:992px) {
+    .hidden-mobile{
+      display: none;
+    }
+  }
 }

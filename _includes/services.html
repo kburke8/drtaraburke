@@ -21,7 +21,7 @@
           <h4 class ="service-heading">{{ service.title | markdownify }}</h4>
           {% if service.link %} </a> {% endif %}
 
-          {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
+          {% if service.desc %}<div class="text-muted hidden-mobile">{{ service.desc | markdownify }}</div>{% endif %}
         </div>
 	    {% endfor %}
       </div>
