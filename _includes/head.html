@@ -6,8 +6,8 @@
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-	
-	gtag('config', '{{ site.google.analytics }}');
+    gtag('config', '{{ site.google.ads }}');
+	  gtag('config', '{{ site.google.analytics }}');
   </script>
   <!-- End Google Analytics -->
 {% endif %}
@@ -146,4 +146,15 @@
   }
   </script>
 {% endif %}
+{% if page.layout == "book" %}
+<!-- Event snippet for Page view conversion page -->
+<script>
+  gtag('event', 'conversion', {
+      'send_to': 'AW-737024714/aCgwCOmRuf4BEMq1uN8C',
+      'value': 50.0,
+      'currency': 'USD'
+  });
+</script>
+{% endif %}
+
 </head>
