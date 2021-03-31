@@ -31,7 +31,7 @@ formspree_form_path: moqpykav
 
 google:
   #analytics: G-X6KZV35E1F #Google Analytics tracking code here
-  ads: AW-737024714
+  #ads: AW-737024714
   tagmanager: GTM-PFRHL77
 
 sass:
