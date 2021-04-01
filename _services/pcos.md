@@ -26,7 +26,7 @@ Currently, the most widely accepted way is by using something called the Rotterd
 
 Two of three are needed to make the diagnosis:
 
-* Oligo – and/or anovulation – which means irregular cycles or you are not ovulation
+* Oligo – and/or anovulation – which means irregular cycles, or you are not ovulating.
 * Clinical and/or biochemical signs of hyperandrogenism – which means signs of high testosterone like acne or unwanted hair growth (like on the chin) OR high androgen on your labs work.
 * Polycystic ovaries (by ultrasound) – exactly like it sounds, cysts are seen on your ovaries when imaging is performed.
 
