@@ -11,7 +11,7 @@ description: Become a patient with Dr. Burke and take control of your health tod
 
 To become a patient or to schedule your next appointment, please use the scheduling window below or call our office at <a href="tel:+{{site.functionalPhone}}">{{site.phone}}</a>. 
 
-If you are a potential patient wanting to see if Dr. Burke is the right fit for your health goals, she offers complimentary 15-minute Discovery Calls to find out about your needs and get to know you.
+If you are a potential patient wanting to see if Dr. Burke is the right fit for your health goals, she offers complimentary 15-minute Discovery Calls, which can be scheduled below.
 
 <div markdown="1" class="bg-notice">
 <div markdown="1" class="notice">

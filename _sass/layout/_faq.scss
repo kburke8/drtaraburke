@@ -2,13 +2,12 @@
   hr  {
     border: 0;
     height: 3px;
-    background: $gray-300;
-    background-image: linear-gradient(to right, $gray-300, $gray-600, $gray-300);
+    background-color: black;
     margin-bottom: 50px;
     margin-top: 0px;
   }
   h2 {
-    color: $gray-700
+    color: $black
   }
   summary {
     font-size: 1.25rem;
@@ -24,7 +23,7 @@
     position: relative;
     transition: all .2s ease-in-out;
     &:hover {
-      color: darken($pink, 10%);
+      color: darken($primary, 10%);
       transform: scale(1.05);
     }
   }
