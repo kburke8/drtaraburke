@@ -9,12 +9,13 @@
   }
   .team-member {
     margin-bottom: 0px;
-    text-align: center;
+      text-align: left;
     img {
       width: 349px;
       height: 525px;
       border: 7px solid fade-out($gray-800, 0.9);
-      border-radius: 10px;
+      border-radius: 0px;
+      margin-left: 15%;
     }
     h4 {
       margin-top: 25px;
@@ -23,6 +24,12 @@
     }
     p {
       margin-top: 0;
+    }
+    .social-buttons {
+      text-align: center;
+    }
+    hr{
+      height: 1px;
     }
   }
 }
