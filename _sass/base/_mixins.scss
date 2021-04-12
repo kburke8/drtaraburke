@@ -20,3 +20,12 @@
 @mixin gt-font {
   font-family: 'GT Super Display Light', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
+
+@font-face {font-family: "GT Super Display Light";
+  src: url("685863138475bd81c7e5068082244fc5.eot"); /* IE9*/
+  src: url("685863138475bd81c7e5068082244fc5.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("685863138475bd81c7e5068082244fc5.woff2") format("woff2"), /* chrome、firefox */
+  url("685863138475bd81c7e5068082244fc5.woff") format("woff"), /* chrome、firefox */
+  url("685863138475bd81c7e5068082244fc5.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("685863138475bd81c7e5068082244fc5.svg#GT Super Display Light") format("svg"); /* iOS 4.1- */
+}
