@@ -24,36 +24,44 @@ header.masthead {
     padding-top: 100px;
     padding-bottom: 100px;
     .intro-lead-in {
-      font-size: 2.5em;
+      font-size: 1.75em;
       font-weight: 500;
       line-height: 40px;
       margin-bottom: 25px;
       text-transform: uppercase;
       line-height: 1em;
       letter-spacing: 8px;
-      @include raleway-font;
+      @include gt-font;
+      p{
+        font-weight: 100;
+        line-height: 1.25em;
+        margin-bottom: 0;
+      }
     }
     .intro-heading {
       font-size: 25px;
       font-weight: 700;
       line-height: 25px;
       margin-bottom: 25px;
-      text-transform: capitalize;
+      text-transform: uppercase;
       @include raleway-font;
     }
     .intro-sub-heading {
       font-size: 1em;
-      font-weight: 600;
+      font-weight: 300;
       text-transform: uppercase;
       line-height: 1em;
       @include raleway-font;
+      p {
+        margin-bottom: 0px;
+      }
     }
     .intro-location {
-      font-size: 2em;
+      font-size: 1.75em;
       font-weight: 100;
       text-transform: uppercase;
       line-height: 1em;
-      letter-spacing: .1em;
+      letter-spacing: .05em;
       @include raleway-font;
     }
   }
@@ -89,8 +97,8 @@ header.masthead {
         @include gt-font;
         p{
           font-weight: 100;
-        line-height: 1.25em;
-        margin-bottom: 0;
+          line-height: 1.25em;
+          margin-bottom: 0;
         }
       }
       .intro-heading {
