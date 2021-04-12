@@ -1,13 +1,23 @@
 .faq {
   hr  {
     border: 0;
-    height: 3px;
-    background-color: black;
+    height: 1px;
+    background-color:black;
+    // background: $gray-300;
+    // background-image: linear-gradient(to right, $gray-700, $black, $gray-700);
+    // background-image: linear-gradient(to right, $gray-300, $gray-600, $gray-300);
     margin-bottom: 50px;
     margin-top: 0px;
   }
   h2 {
-    color: $black
+    color: $black;
+    font-weight: 100;
+    font-size: 2em;
+    @include raleway-font;
+  }
+  .question{
+    font-weight: 300;
+    @include gt-font;
   }
   summary {
     font-size: 1.25rem;

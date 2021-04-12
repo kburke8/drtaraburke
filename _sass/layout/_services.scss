@@ -1,18 +1,36 @@
 // Styling for the services section
 .services{ 
-  padding-bottom: 50px !important;
+  padding-bottom: 0px !important;
   .service-heading {
       margin: 15px 0;
       text-transform: none;
       color: $gray-700;
+      font-weight: 100;
+      font-size: 2em;
+    @include gt-font;
+
   }
 
+  .hidden-mobile{
+    font-size: 1.1em;
+    font-weight: 300;
+    text-align: left;
+    @include raleway-font;
+    p{
+      line-height: 1.5 !important;
+    }
+  }
+  
   .section-subheading {
     margin-bottom: 25px !important;
+    @include gt-font;
   }
 
   .section-heading {
-    color: $black
+    color: $black;
+    font-weight: 100 !important;
+    font-size: 3.25em !important;
+    @include raleway-font;
   }
 
   hr  {
