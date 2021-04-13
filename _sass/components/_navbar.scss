@@ -22,6 +22,7 @@
     @include raleway-font;
     font-size: 1.25em;
     font-weight: 200;
+    margin-left: 0px;
     &.active,
     &:active,
     &:focus,
@@ -30,7 +31,7 @@
     }
   }
   a {
-    margin-left: auto !important;
+    margin-left: auto;
     color: black;
     &:hover {
       color: darken($primary, 10%);
@@ -111,15 +112,17 @@
       }
     }
     a {
-    margin-left: auto !important;
+    margin-left: 3%;
       color: white;
+      white-space: nowrap;
     }
     .navbar-nav {
       .nav-item {
         .nav-link {
-          padding: 1.4em 1.4em !important;
           color: white;
+          white-space: nowrap;
         }
+        margin: 1em 1em !important;
       }
     }
     &.navbar-shrink {
