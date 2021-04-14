@@ -143,10 +143,12 @@
       > li:first-child{
         border-left: 1px solid $gray-900;
         box-sizing: border-box;
+        padding-left: 2%;
       }
       > li:last-child{
         border-right: 1px solid $gray-900;
         box-sizing: border-box;
+        padding-right: 2%;
       }
 
     }

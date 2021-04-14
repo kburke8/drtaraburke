@@ -79,7 +79,7 @@ Common Types can include (please note this is not an all-inclusive list of types
     * Signs and symptoms include hot flashes, night sweats, vaginal dryness, joint and muscle pain, brain fog, bone loss, and low sex drive.
 * Elevated Progesterone – While not as common as estrogen dominance, this hormonal imbalance is still possible. 
     * Symptoms of progesterone dominance are very sensitive to the cause but can include, bloating, sleepiness and grogginess, and mood changes.
-* Elevated Testosterone – This is commonly seen in disorders like Polycystic Ovary Syndrome (PCOS), hirsutism, and in inappropriate dosed hormone replacement therapy.
+* Elevated Testosterone – This is commonly seen in disorders like Polycystic Ovarian Syndrome (PCOS), hirsutism, and in inappropriate dosed hormone replacement therapy.
     * Signs of Elevated Testosterone include acne, unwanted/inappropriate hair growth on places such as your chin, irregular periods, and feeling “more aggressive/irritated”.
 * Low Testosterone – Low Testosterone is also seen commonly in the peri and post-menopause stages and is unfortunately a common part of ageing. 
      *  Signs of Low Testosterone include low libido, fatigue, weakness, and depressed mood.

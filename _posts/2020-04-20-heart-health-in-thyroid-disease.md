@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hearth Health in Thyroid Disease
+title: Heart Health in Thyroid Disease
 date: 2020-04-20 00:00
 category: Naturopathic Medicine
 permalink: /heart-health-in-thyroid-disease/
@@ -11,7 +11,7 @@ excerpt: Your thyroid not only impacts metabolism, weight, bone health, mood, di
 description: I often get a questioning look from patients. “Why are you checking my cholesterol on a thyroid panel?” At first glance it may seem unrelated but...
 
 ---
-# Hearth Health in Thyroid Disease 
+# Heart Health in Thyroid Disease 
 
 When I check the box for lipids on lab work, I often get a questioning look from patients. “Why are you checking my cholesterol on a thyroid panel?” At first glance it may seem unrelated but in reality, it can be very important!
 

@@ -1,12 +1,12 @@
 ---
-title: Polycystic Ovarian Syndrome (PCOS)
+title: Polycystic Ovary Syndrome (PCOS)
 subtitle:
 layout: service
-description: Polycyctic Ovarian Syndrome, often abbreviated PCOS, is a hormonal disorder commonly diagnosed in young women...
+description: Polycyctic Ovary Syndrome, often abbreviated PCOS, is a hormonal disorder commonly diagnosed in young women...
 ---
 # {{page.title}}
 
-Polycyctic Ovarian Syndrome, often abbreviated PCOS, is a hormonal disorder commonly diagnosed in young women. It was named for multiple cysts seen on the ovaries of patients diagnosed with PCOS, although this is a bit of a misnomer as many patients with PCOS will not always have cystic ovaries.
+Polycyctic Ovary Syndrome, often abbreviated PCOS, is a hormonal disorder commonly diagnosed in young women. It was named for multiple cysts seen on the ovaries of patients diagnosed with PCOS, although this is a bit of a misnomer as many patients with PCOS will not always have cystic ovaries.
 
 When we think of the female hormonal system, we often associate it with estrogen and progesterone. Females also produce small amounts of androgens, like testosterone. These androgens are greatly elevated in PCOS which often leads to unusual hair growth, acne, and decreased fertility. Insulin is a hormone that regulates blood sugar. Patients diagnosed with PCOS are more likely to be insulin resistant leading to elevations in blood sugar. Progesterone is a female hormone that is often decreased in PCOS, this can affect your menstrual cycle, leading to irregular or missed periods and decreased fertility. LH and FSH are also hormones involved in a women’s menstrual cycle
 

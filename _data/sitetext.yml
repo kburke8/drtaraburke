@@ -27,7 +27,7 @@ services:
         link: "digestive-health"
         desc: "Digestive Health doesn’t always end in the gut itself. Hormones, stress, lifestyle can all impact the gastrointestinal system, this is why finding the root cause of digestive health is incredibly important. Dr. Burke works with her patients to take back control of their digestive health."
         icon: fas fa-diagnoses
-      - title: "Polycystic Ovarian Syndrome (PCOS)"
+      - title: "Polycystic Ovary Syndrome (PCOS)"
         link: "pcos"
         desc: " Dr. Burke often blends conventional and alternative medicine to provide comprehensive care involving PCOS patients. She will provide a comprehensive individualized treatment plan – including dietary and lifestyle recommendations, supplemental/ herbal support, and, if appropriate, will discuss pharmaceutical options."
         icon: fas fa-female
