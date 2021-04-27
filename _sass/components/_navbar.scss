@@ -89,11 +89,13 @@
       .navbar-nav {
         > li:first-child{
           border-left: 1px solid $gray-900;
-          box-sizing: border-box;
+        padding-left: 2%;
+        box-sizing: border-box;
         }
         > li:last-child{
           border-right: 1px solid $gray-900;
-          box-sizing: border-box;
+        padding-right: 2%;
+        box-sizing: border-box;
         }
 
       }
