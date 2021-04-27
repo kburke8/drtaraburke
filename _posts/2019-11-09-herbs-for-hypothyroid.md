@@ -11,6 +11,8 @@ excerpt: There are a number of benefits, drawbacks, and common misconceptions wh
 description: There are a number of benefits, drawbacks, and common misconceptions when it comes treatment using herbs for hypothyroid, so let’s lay out the facts...
 ---
 
+<img src="../assets/img/herbs.webp" class="d-block w-100 height-907" style="object-position: right;" alt="Herbs for Hypothyroid">
+
 # Herbs for Hypothyroid 
 
 ***
