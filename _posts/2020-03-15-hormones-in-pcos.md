@@ -9,6 +9,8 @@ tags: [PCOS]
 summary: 
 excerpt: PCOS is a hormonal disorder which is commonly diagnosed in young women. It was named for multiple cysts seen on the ovaries of patients diagnosed with PCOS, although this is a bit of a misnomer as patients with PCOS will not always have cystic ovaries.
 description: PCOS is a hormonal disorder which is commonly diagnosed in young women. It was named for multiple cysts seen on the ovaries of patients diagnosed with PCOS...
+read_time: false
+show_date: false
 ---
 
 # Hormones in PCOS

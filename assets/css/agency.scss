@@ -31,6 +31,7 @@ $contact-image: "{{ site.data.style.contact-image }}";
 @import "layout/footer.scss";
 @import "layout/disclaimer.scss";
 @import "layout/post.scss";
+@import "layout/posts.scss";
 @import "layout/book.scss";
 @import "layout/schedule.scss";
 @import "layout/googlemap.scss";

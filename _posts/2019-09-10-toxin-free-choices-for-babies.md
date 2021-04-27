@@ -9,6 +9,8 @@ tags: []
 summary: 
 excerpt: Avoiding plastics is not only good for the environment, but also good for your health! While I realize one person avoiding single use plastic products won’t save the world, I am a firm believer that
 description: Avoiding plastics is not only good for the environment, but also good for your health! Making these small changes in our home has become especially...
+read_time: false
+show_date: false
 ---
 # Toxin-Free Choice For Babies
 

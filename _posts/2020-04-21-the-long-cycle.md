@@ -9,6 +9,8 @@ tags: []
 summary: 
 excerpt: Have you ever wondered why your cycle isn’t regular or why it is longer than “normal”? This article explores possible reasons why your cycle is long and how to find the root cause as to why.
 description: Have you ever wondered why your cycle isn’t regular or why it is longer than “normal”? First, it is important to define what a long cycle means...
+read_time: false
+show_date: false
 ---
 # The Long Cycle
 

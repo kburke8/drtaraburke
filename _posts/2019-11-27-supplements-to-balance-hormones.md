@@ -9,7 +9,12 @@ tags: [Hormones]
 summary: 
 excerpt: Hormone balance is one of the most common reasons patients pay me an initial visit, and a common question is whether I recommend supplements to balance hormones. In recent years, focus on women’s health has gone from just a yearly PAP smear and breast exam to discussion around optimal health 
 description: Choosing supplements for hormone balance isn’t always cut and dry. Depending on why your hormones are imbalanced can mean that is it time for...
+read_time: false
+show_date: false
 ---
+
+<img src="../assets/img/supplements-to-balance-hormones.webp" class="d-block w-100 height-907" style="object-position: right;" alt="Supplements To Balance Hormones">
+
 # Supplements to Balance Hormones
 
 Hormone balance is one of the most common reasons patients pay me an initial visit, and a common question is whether I recommend supplements to balance hormones. In recent years, focus on women’s health has gone from just a yearly PAP smear and breast exam to discussion around optimal health and wellness. Women feel empowered to talk to their health care providers about topics that were previously perceived as “normal”- things like painful periods and PMS symptoms which includes cravings, mood changes, acne, and changes during perimenopause. Seeking treatment for hormone balance means that women are finally able to start the journey to optimal health and complete wellness.

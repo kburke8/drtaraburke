@@ -9,6 +9,8 @@ tags: [Thyroid]
 summary: 
 excerpt: Your thyroid not only impacts metabolism, weight, bone health, mood, digestive function, and your menstrual cycle, but also your lipid levels – like cholesterol. 
 description: I often get a questioning look from patients. “Why are you checking my cholesterol on a thyroid panel?” At first glance it may seem unrelated but...
+read_time: false
+show_date: false
 
 ---
 # Heart Health in Thyroid Disease 

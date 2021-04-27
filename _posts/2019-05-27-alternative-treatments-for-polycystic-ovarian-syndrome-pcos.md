@@ -7,11 +7,13 @@ permalink: /alternative-treatments-for-polycystic-ovarian-syndrome-pcos/
 author: Dr. Tara Burke
 tags: [PCOS]
 summary: 
-excerpt: Polycystic Ovarian Syndrome, abbreviated PCOS, is a common female hormone disorder with symptoms such as irregular or absent periods, unwanted hair growth, and acne. Common conventional treatments for PCOS are hormonal birth control and medication to help blood sugar and high testosterone levels. There are many safe alternative treatments that are effective and natural.
-description: Polycystic Ovarian Syndrome, abbreviated PCOS, is a common female hormone disorder with symptoms such as irregular or absent periods, unwanted...
+excerpt: Polycystic Ovary Syndrome, abbreviated PCOS, is a common female hormone disorder with symptoms such as irregular or absent periods, unwanted hair growth, and acne. Common conventional treatments for PCOS are hormonal birth control and medication to help blood sugar and high testosterone levels. There are many safe alternative treatments that are effective and natural.
+description: Polycystic Ovary Syndrome, abbreviated PCOS, is a common female hormone disorder with symptoms such as irregular or absent periods, unwanted...
+read_time: false
+show_date: false
 ---
-# Alternative Treatments for Polycystic Ovarian Syndrome (PCOS)
-Polycystic Ovarian Syndrome, abbreviated PCOS, is a common female hormone disorder with symptoms such as irregular or absent periods, unwanted hair growth, and acne. Common conventional treatments for PCOS are hormonal birth control and medication to help blood sugar and high testosterone levels. There are many safe alternative treatments that are effective and natural.
+# Alternative Treatments for Polycystic Ovary Syndrome (PCOS)
+Polycystic Ovary Syndrome, abbreviated PCOS, is a common female hormone disorder with symptoms such as irregular or absent periods, unwanted hair growth, and acne. Common conventional treatments for PCOS are hormonal birth control and medication to help blood sugar and high testosterone levels. There are many safe alternative treatments that are effective and natural.
 
 ***
 
@@ -73,8 +75,8 @@ If you have been diagnosed with PCOS or think you may have PCOS and are interest
 
 #### References:
 
-[^1]: Kahsar-Miller MD, Nixon C, Boots LR, Go RC, Azziz R. Prevalence of Polycystic Ovarian Syndrome (PCOS) in first-degree relatives of patients with PCOS. Fertil Steril. 2001;75(1):53-58. doi:10.1016/S0015-0282(00)01662-9
-[^2]: Legro RS, Arslanian SA, Ehrmann DA, et al. Diagnosis and treatment of Polycystic Ovarian Syndrome: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2013;98(12):4565-4592. doi:10.1210/jc.2013-2350
+[^1]: Kahsar-Miller MD, Nixon C, Boots LR, Go RC, Azziz R. Prevalence of polycystic ovary syndrome (PCOS) in first-degree relatives of patients with PCOS. Fertil Steril. 2001;75(1):53-58. doi:10.1016/S0015-0282(00)01662-9
+[^2]: Legro RS, Arslanian SA, Ehrmann DA, et al. Diagnosis and treatment of polycystic ovary syndrome: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2013;98(12):4565-4592. doi:10.1210/jc.2013-2350
 [^3]: Badawy A, Elnashar A. Treatment options for polycystic ovary syndrome. Int J Womens Health. 2011;3:25-35. doi:10.2147/IJWH.S11304
 [^4]: Turan V, Mutlu EK, Solmaz U, et al. Benefits of short-term structured exercise in non-overweight women with polycystic ovary syndrome: a prospective randomized controlled study. J Phys Ther Sci. 2015;27(7):2293-2297. doi:10.1589/jpts.27.2293
 [^5]: Barrett ES, Sobolewski M. Polycystic ovary syndrome: do endocrine-disrupting chemicals play a role? Semin Reprod Med. 2014;32(3):166-176. doi:10.1055/s-0034-1371088

@@ -9,6 +9,8 @@ tags: []
 summary: 
 excerpt: I often find myself talking to my patients about abnormal cycles – whether that be the length of their period/cycle, the amount of flow, clotting, pain, etc. I thought that I would go back to some 
 description: A typical cycle comes every 25-30 days, menses is 5-7 days. As far as flow is concerned, you should not have to...
+read_time: false
+show_date: false
 ---
 
 # What is a Normal Cycle?
