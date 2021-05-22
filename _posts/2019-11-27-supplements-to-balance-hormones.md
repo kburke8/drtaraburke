@@ -11,9 +11,10 @@ excerpt: Hormone balance is one of the most common reasons patients pay me an in
 description: Choosing supplements for hormone balance isn’t always cut and dry. Depending on why your hormones are imbalanced can mean that is it time for...
 read_time: false
 show_date: false
+image_source: /assets/img/supplements-to-balance-hormones.webp
 ---
 
-<img src="../assets/img/supplements-to-balance-hormones.webp" class="d-block w-100 height-907" style="object-position: right;" alt="Supplements To Balance Hormones">
+<img src="..{{page.image_source}}" class="d-block w-100 height-907" style="object-position: right;" alt="Supplements To Balance Hormones">
 
 # Supplements to Balance Hormones
 
