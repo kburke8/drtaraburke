@@ -92,6 +92,9 @@ faq:
       <p>Acupuncture New Patient (45 min) - <b>$150</b></p>
       <p>Acupuncture Existing Patient (30min) - <b>$75</b></p>
       <p>For additional services or questions please contact the office at (480) 702-1445. Please note, if you have extensive health concerns or would like extra time we offer extended time slots at $75 for every additional 15min.</p>
+  - question: Does Dr. Burke see out-of-state telemedicine patients?
+    answer: |
+      <p>Dr. Burke is a licensed naturopathic doctor in the state of Arizona, you must be located in the state of Arizona during a telemedicine appointment with Dr. Burke.</p>
   
 contact:
     title: "Request Info"

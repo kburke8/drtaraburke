@@ -11,17 +11,6 @@ description: Become a patient with Dr. Burke and take control of your health tod
 
 To become a patient or to schedule your next appointment, please use the scheduling window below or call our office at <a href="tel:+{{site.functionalPhone}}">{{site.phone}}</a>. 
 
-If you are a potential patient wanting to see if Dr. Burke is the right fit for your health goals, she offers complimentary 15-minute Discovery Calls, which can be scheduled below.
+<b>If you are a potential patient wanting to see if Dr. Burke is the right fit for your health goals, she offers complimentary 15-minute Discovery Calls, which can be scheduled below.</b>
 
-<div markdown="1" class="bg-notice">
-<div markdown="1" class="notice">
-
-### Important Clinic Information - Novel Coronavirus (COVID-19)
-Due to COVID-19 Dr. Burke has limited availability for in-person clinic visits. This allows us to appropriately space clinic visits to ensure sanitation and limit overlap of patients in the waiting room. Our top priority is keeping our patients and families safe! Dr. Burke will be taking extra steps and precautions for in-person visits. All patients are required to wear a mask/face-covering.
-
-For your peace of mind, please know that Dr. Burke has been fully vaccinated for COVID-19.
-
-We will continue to keep you apprised with clinic updates should the situation change. We greatly appreciate all of your support, cooperation, and understanding in our efforts to keep the community healthy.
- </div>
- </div>
-
+Please note the scheduler below requires payment for existing patients booking follow up visits, as well as new patients booking telemedicine visits. If you would prefer to pay at you visit please call the office at <a href="tel:+{{site.functionalPhone}}">{{site.phone}}</a> to make an in-person appointment and request that Dr. Burke take payment at time of service. Credit card information is required upon booking a telemedicine or phone consult to hold your scheduled appointments.
