@@ -13,4 +13,4 @@ To become a patient or to schedule your next appointment, please use the schedul
 
 <b>If you are a potential patient wanting to see if Dr. Burke is the right fit for your health goals, she offers complimentary 15-minute Discovery Calls, which can be scheduled below.</b>
 
-Please note the scheduler below requires payment for existing patients booking follow up visits and new patients booking telemedicine visits. If you would prefer to pay at your visit please call the office at <a href="tel:+{{site.functionalPhone}}">{{site.phone}}</a> to make an in-person appointment and request that Dr. Burke take payment at the time of service. Credit card information is required upon booking a telemedicine or phone consult to hold your scheduled appointment.
+Please note the scheduler below requires payment up front for all patients. If you would prefer to pay at your visit please call the office at <a href="tel:+{{site.functionalPhone}}">{{site.phone}}</a> to make an in-person appointment and request that Dr. Burke take payment at the time of service.
