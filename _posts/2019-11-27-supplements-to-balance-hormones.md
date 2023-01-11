@@ -28,24 +28,15 @@ However, choosing supplements for hormone balance isn’t always cut and dry. De
 
 ## Types of Hormone Imbalances
 
-Estrogen Dominance – [Estrogen](https://www.hormone.org/your-health-and-hormones/glands-and-hormones-a-to-z/hormones/estrogen) dominance is a quite common cause of hormone imbalance that occurs when estrogen levels are too high relative to progesterone levels. This can happen in a few ways:
+**Elevated Estrogen Levels –**  Levels can be increased due to environmental exposures, medications, poor hormone metabolism, ovarian cysts/tumors, peri-menopausal hormone changes, and hormone replacement therapy (HRT). 
 
-1. **Elevated estrogen levels:** Estrogen levels can become elevated due to environmental exposures, medications, poor hormone metabolism, or ovarian cysts/tumors.
-2. **Depressed progesterone levels:** Progesterone levels may depress due to various conditions such as Polycystic Ovary Syndrome (PCOS), menopause, or hypothyroidism.
-3. **Combination:** Any pattern in between the that causes higher estrogen relative to progesterone can also result in estrogen dominance
+Signs and symptoms include heavy or irregular period, fibrocystic breasts, mood changes, headaches/migraines, weight gain/water retention, or acne. 
 
-Symptoms of estrogen dominance include: Tender breasts, irregular cycles – long or short, bloating, acne, breast cysts, PMS, headaches, anxiety, weight gain, difficulty sleeping, fatigue, hair loss, and difficulties getting pregnant. However, this is not an all-inclusive list.
+**Depressed Progesterone Levels–**  Progesterone Levels can be depressed due to conditions like PCOS, menopause, stress, medications, and hypothyroidism.
 
-![Supplements To Balance Hormones Chart](../assets/img/Copy-of-Est-Dom-Patterns-Graphic.webp)
+Signs and symptoms include irregular menstrual cycles, infertility, heavy or painful periods, mood changes, fatigue, poor sleep, or menopausal symptoms. 
 
-The graphic above shows a healthy pattern and 3 patterns of estrogen dominance. Please take note that all of the unhealthy patterns are still within a typical lab reference range. Your hormones will come back “normal”. It’s the ratio between the hormones that are important! Adding a healthy pattern to the previously mentioned reasons for Estrogen Dominance leaves us with the following patterns for your hormones.
-
-1. **Healthy Pattern:** Levels of Estrogen and Progesterone are at optimal levels. Estrogen and Progesterone are balanced
-2. **Elevated Estrogen:** Estrogen levels have increased past optimal levels while progesterone has stayed the same. Estrogen and Progesterone are unbalanced.
-3. **Depressed Progesterone:** Estrogen levels are at an optimal level while progesterone has stays decreased. Estrogen and Progesterone are unbalanced.
-4. **Combination:** Estrogen and progesterone are out of optimal ranges. Estrogen and Progesterone are unbalanced.
-
-**Low Estrogen –** this is very characteristic for peri and post-menopausal women. As women transition into menopause, infrequent or nonexistent periods mean decreasing estrogen levels. For some women this transition is mild while for others it is very severe and debilitating.   
+**Low Estrogen –** This is very characteristic for peri and post-menopausal women. As women transition into menopause, infrequent or nonexistent periods mean decreasing estrogen levels. For some women this transition is mild while for others it is very severe and debilitating.   
 
 Signs and symptoms include hot flashes, night sweats, vaginal dryness, joint and muscle pain, brain fog, bone loss, and low sex drive.
 
@@ -67,20 +58,19 @@ Signs of Low Testosterone include low libido, fatigue, weakness, and depressed m
 
 ## Herbs, Nutrients, and Nutrition Options for Hormone Balance
 
-As a Naturopathic Physician, I am lucky to have so many “tools in my toolbox” to provide treatment options to my patients having hormonal balance issues! Depending on symptom severity and patient preference, I can choose between a variety of options that will work best for them. This is one of the many reasons that I love Naturopathic Medicine and one of the reasons I often use supplements to balance hormones.
+As a Naturopathic Doctor, I am lucky to have so many “tools in my toolbox” to provide treatment options to my patients having hormonal balance issues! Depending on symptom severity and patient preference, I can choose between a variety of options that will work best for them. This is one of the many reasons that I love Naturopathic Medicine and one of the reasons I often use supplements to balance hormones.
 
 ### Herbal and Alternative Medicine:
 
 I love using herbal formulations with my patients in order to provide safe and effective relief for their symptoms. Herbals are a gentle way to treat for many symptoms such as hot flashes, painful periods, unpredictable periods, hormonal acne, fertility, sleep, and more! Here are some common herbal supplements to balance hormones and combat these unwanted issues
 
 * ***Black Cohosh (Cimicifuga or Actaea racemose):*** This herb is very famous for its use in menopause, especially for hot flashes. There have been mixed results from research studies on the efficacy of this herb but clinically it has been effective for many patients. I personally find it to be a good option when used in conjunction with other herbals in a formula for menopause. Overshadowed by its attention for menopause relief, this herb is also great for PMS, period cramping, and irregular periods. [^1]
-* ***Chaste Tree (Vitex annus):*** Used traditionally for many years, Chaste Tree Berry is a very famous herb in the realm of hormone balance! It works on the pituitary gland to increase the luteinizing hormone (LH), stimulating ovulation and increasing progesterone.[^2],[^3] It is often used to provide relief from PMS symptoms. [^4] It is a great choice for depressed progesterone levels and/or elevated estrogen levels.
+* ***Chaste Tree (Vitex annus):*** Used traditionally for many years, Chaste Tree Berry is a very famous herb in the realm of hormone balance! It works on the pituitary gland to increase the luteinizing hormone (LH), stimulating ovulation and increasing progesterone.[^2],[^3] It is often used to provide relief from PMS and PMDD symptoms. [^4]
 * ***Kava (Piper methysticum):*** This is a personal favorite herb of mine! Why? Because it does so much, it is one of the best herbal supplements to balance hormones! It is noted for its calming but non-sedative effects[^2],[^5] and efficacy for menopausal symptoms. It also effective at alleviating painful periods due to its muscle relaxant properties.
 * ***Maca (Lepidium Peruvianum):*** This is another personal favorite of mine. It is wonderful for women in all stages of life – from helping regulate cycles in young women to relieving menopausal symptoms. [^6],[^7]
 * ***Fenugreek:*** This herb is most widely known for its use to encourage milk production in breastfeeding mothers. One of its lesser known abilities is to help women with low testosterone level and improving libido. Although the research is still out on whether it results in a direct increase to testosterone, it consistently seems to have a positive effect on the libido. It is also indicated for helping with insulin sensitivity, which is a common use case in patients with Polycystic Ovary Syndrome (PCOS). [^2]
 * ***Licorice and Saw palmetto:*** These herbs are a great choice for those looking to lower testosterone levels such as in patients with Polycystic Ovary Syndrome (PCOS). [^2]
-* ***Dandelion Root and Burdock:*** No discussion about hormone balance and herbs would be complete without talking about these herbs due to their liver loving affinities. You may be wondering why would you need liver herbs for hormone balance? Well, because many of our hormones are metabolized and broken down in our liver. Promoting healthy metabolism means toxins and excess hormone products don’t build up! Dandelion Root [^2] and Burdock [^5] are two such herbs, and that makes them great supplements to balance hormones.
-* ***Diindolymethyl (DIM):*** This amazing supplement comes from cruciferous vegetables. It is most often indicated for cases with elevated estrogen. This is due to the fact that it promotes favorable metabolism of estrogen. [^2]
+* ***Inositol:*** Often used in thyroid and PCOS patients, there is tremendously encouraging research for effectiveness for these conditions when dosed appropriately. 
 
 Unfortunately, there are so many wonderful herbal supplements to balance hormones that I cannot possibly mention them all. It is also important to know that there is more to herbs that simply checking what health issues they are indicated for. They also have synergistic properties, which means that some herbs work better together! A naturopathic doctor can come up with a herbal formula that is dosed safely and appropriately for your individualized health history and concerns. There are also pre-made supplements on the market which are formulated for hormone balance. My trustworthy brands in this category include Vitanica and Femenessence.
 
@@ -88,8 +78,8 @@ Unfortunately, there are so many wonderful herbal supplements to balance hormone
 
 Often times we can’t rely solely on herbal supplements to balance hormones, and thus we must combine it with another method. One of my favorite ways to compliment herbal therapies is with dietary recommendations.
 
-* ***Cruciferous Veggies:*** For estrogen dominant conditions, cruciferous vegetables are a wonderful way to help metabolize estrogens better as the contain Indole-3-carbinol (I3C), which favors the less active form of estrogen. 2 Vegetables in general can help enhance liver function which is important since estrogen metabolites can build up if your liver isn’t working optimally.
-* ***Flax seed:*** Known as a superfood, Flax Seed is also a wonderful addition to your diet to help with estrogen levels, as it acts as a phytoestrogen. [^2] What is a phytoestrogen? It is a component that acts like estrogen in the body. This mean it can help with high or low estrogen levels. How? Because it works in the body on estrogen receptors, allowing it to regulate hormone levels appropriately, becoming weakly estrogenic or antiestrogenic. [^8] In this way it can help regulate menstrual cycles and is great for elevated or depressed estrogen levels. It can also help to bind up extra androgens, like testosterone if levels are too high (like in PCOS)
+* ***Veggies:*** Vegetables are a wonderful way to help encourage great hormonal health. Many are high in fiber which can help insulin sensitivity and digestion. Cruciferous vegetables deserve a special mention as they can help metabolize estrogens better as contains Indole-3-carbinol (I3C). 2 Vegetables in general can help enhance liver function which is important because estrogen metabolites can build up if your liver isn’t working optimally. 
+* ***Flax seed:*** Known as a superfood, Flax Seed is also a wonderful addition to your diet to help with hormone imbalance, as it acts as a phytoestrogen. [^2] What is a phytoestrogen? It is a component that acts like estrogen in the body. This mean it can help with high or low estrogen levels. How? Because it works in the body on estrogen receptors, allowing it to regulate hormone levels appropriately, becoming weakly estrogenic or antiestrogenic. [^8] In this way it can help regulate menstrual cycles and is great for elevated or depressed estrogen levels. It can also help to bind up extra androgens, like testosterone if levels are too high (like in PCOS), and is great source of fiber. Using phytoestrogens are not for everyone depending on diagnoses, medical history, or medications. 
 * ***Spearmint Tea:*** This is wonderful for patients who are having health issues like Polycystic Ovary Syndrome (PCOS), who are looking to help decrease testosterone.
 * ***Avoiding Sugar and Caffeine:*** When estrogen levels are elevated, caffeine and sugar can worsen symptoms. Thus, it is important to avoid drinks that contain these elements.
 

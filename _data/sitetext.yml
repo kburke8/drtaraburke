@@ -1,7 +1,7 @@
 header:
     title: Dr. Tara Burke
     text: Naturopathic Doctor
-    text2: Thyroid & Adrenal \| Hormones \| Telemedicine
+    text2: Thyroid \| Hormone Balance \| Telemedicine
     text3: Scottsdale, Arizona
     button: Discovery Call
     buttonlink: "https://drtaraburke.com/book" # "#{section}" or "URL/page link"
@@ -19,9 +19,9 @@ services:
         link: "hormone-balancing"
         desc: "Hormone imbalances are common but should not be considered normal! Dr. Burke will help guide you and offer the best options available to balance your hormones."
         icon: fas fa-balance-scale-right       
-      - title: "Adrenal Support"
-        link: "adrenal-support"
-        desc: "Dr. Burke can discuss herbal supplementation and lifestyle changes to help rejuvenate your adrenals."
+      - title: "Irregular and Absent Cycles"
+        link: "irregular-cycles"
+        desc: "Dr. Burke can discuss herbal supplementation and lifestyle changes to help resolve Irregular and Absent Cycles."
         icon: fas fa-medkit
       - title: "Digestive Health"
         link: "digestive-health"

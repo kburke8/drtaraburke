@@ -12,7 +12,7 @@ Digestive Health doesn’t always end in the gut. Hormones, stress, lifestyle ca
 
 At your initial one-hour appointment Dr. Burke will go through your current concerns, medical, family, and social history. She will also perform any indicated physical exams and provide ample time for questions. At the end of your visit she will provide any indicated treatment options and will order specific comprehensive lab work for your digestive health concerns and goals.
 
-At your thirty-minute follow-up appointment Dr. Burke will provide a comprehensive individualized treatment plan- including dietary and lifestyle recommendations, supplemental/ herbal support, and if appropriate discussion of pharmaceutical options. Dr. Burke tries not to only provide a treatment plan but also try to identify a root cause to your health concerns. Dr. Burke will recommend regular lab testing and appointments to provide safe and effective care!
+At your follow-up appointment Dr. Burke will provide a comprehensive individualized treatment plan- including dietary and lifestyle recommendations, supplemental/ herbal support, and if appropriate discussion of pharmaceutical options. Dr. Burke tries not to only provide a treatment plan but also try to identify a root cause to your health concerns. Dr. Burke will recommend regular lab testing and appointments to provide safe and effective care!
 ## Common Digestive Concerns Managed by Dr. Burke:
 
 * Irritable Bowel Syndrome (IBS)
