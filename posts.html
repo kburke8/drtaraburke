@@ -6,25 +6,25 @@ noindex: true
 <div class="posts">
   {% assign entries_layout = page.entries_layout | default: 'list' %}
   {% assign postsByYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+  {% assign sitePosts = site.posts | where_exp: "item", "item.hidden != true" %}
   <h1>Posts</h1>
   <hr/>
   <section id="posts" class="">
-    {% for year in postsByYear %}
+    <!-- {% for year in postsByYear %} -->
       <!-- <h2 class="archive__subtitle">{{ year.name }}</h2> -->
-      {% for post in year.items %}
+      {% for post in sitePosts limit:12 %}
         {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-        {% if thecycle == 'odd' %}
-        <div class="row">
-        {% endif %}
+          {% if thecycle == 'odd' %}
+            <div class="row">
+          {% endif %}
           <div class="bg-beige col-md-6 post">
             {% include archive-single.html type=entries_layout %}
           </div>
-        {% if thecycle == 'even' or forloop.last == true %}
-        </div>
-        {% endif %}
-
+          {% if thecycle == 'even' or forloop.last == true %}
+            </div>
+          {% endif %}
       {% endfor %}
-    {% endfor %}
+    <!-- {% endfor %} -->
     <div class="row back-to-top">
       <a href="#page-title" class="col">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
     </div>

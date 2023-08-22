@@ -7,7 +7,7 @@ permalink: /is-hrt-right-for-me/
 author: Dr. Tara Burke
 tags: []
 summary: 
-excerpt: HHormone Replacement Therapy (HRT) is a medical treatment that involves supplementing or replacing hormones in the body, typically estrogen and progesterone in women, to alleviate symptoms related to hormonal imbalances.
+excerpt: Hormone Replacement Therapy (HRT) is a medical treatment that involves supplementing or replacing hormones in the body, typically estrogen and progesterone in women, to alleviate symptoms related to hormonal imbalances.
 description: Hormone Replacement Therapy (HRT) is a medical treatment that involves supplementing or replacing hormones in the body, typically estrogen and progesterone in women...
 read_time: false
 show_date: false
