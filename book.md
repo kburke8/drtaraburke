@@ -21,8 +21,32 @@ Please note the scheduler below requires payment up front for all patients. If y
 
 <b>If you are a potential patient wanting to see if Dr. Burke is the right fit for your health goals, she offers complimentary 15-minute Discovery Calls, which can be scheduled below.</b>
 
+***
+
 When scheduling your next visit, be aware that all patients requiring a refill on a prescription pharmaceutical medication, including hormone replacement therapy, will require an <b>in-person</b> visit.
 
 Being present in person allows us to accurately measure vital signs and conduct a comprehensive health assessment. This is particularly important for patients taking prescription medications, as it helps us confirm the ongoing suitability and safety of treatment.
 
-Additionally, please note that temporary provisions and protections that enabled increased access to telemedicine during the COVID pandemic have now been lifted. As a result, we may now require in-person visits to ensure the highest quality of care and comprehensive assessment for our patients. This transition reflects our commitment to maintaining the standards of safety, accuracy, and personalized healthcare that are best achieved through face-to-face consultations.
+***
+
+Dr. Burke works with patients in addressing the following health conditions:
+
+- PCOS
+
+- Irregular or Absent Menstrual Cycles
+
+- Menopause
+
+- Perimenopause
+
+- PMS/PMDD
+
+- Hypothyroidism
+
+- Hashimoto's disease
+
+- Hormone Health
+
+- Digestive Health
+
+If your specific condition is not listed but you're still interested in consulting with Dr. Burke, please arrange a discovery call with her. This call will help determine whether your concern aligns well with her expertise. Please note that Dr. Burke does not provide primary care services such as Well Women’s exams, PAPs, or Acute Care. 
