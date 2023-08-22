@@ -21,11 +21,11 @@ services:
         icon: fas fa-balance-scale-right       
       - title: "Irregular and Absent Cycles"
         link: "irregular-cycles"
-        desc: "Dr. Burke can discuss herbal supplementation and lifestyle changes to help resolve Irregular and Absent Cycles."
+        desc: "Dr. Burke can discuss herbal supplementation and lifestyle changes to help resolve Irregular and absent cycles."
         icon: fas fa-medkit
       - title: "Digestive Health"
         link: "digestive-health"
-        desc: "Digestive Health doesn’t always end in the gut itself. Hormones, stress, lifestyle can all impact the gastrointestinal system, this is why finding the root cause of digestive health is incredibly important. Dr. Burke works with her patients to take back control of their digestive health."
+        desc: "Digestive Health doesn’t always end in the gut itself. Hormones, stress, lifestyle can all impact the gastrointestinal system. This is why finding the root cause of digestive health is incredibly important. Dr. Burke works with her patients to take back control of their digestive health."
         icon: fas fa-diagnoses
       - title: "Polycystic Ovary Syndrome (PCOS)"
         link: "pcos"
@@ -59,11 +59,9 @@ faq:
   - question: What should I expect at my first appointment?
     answer: |
       <p>
-      At your first appointment Dr. Burke will discuss and understand your past and present health concerns. 
-      She will review your health goals, medical history, as well as medications and supplements. 
-      In addition, she will go through any indicated previous lab work and imaging provided. 
-      After reviewing these items, any additional lab work and imaging will be recommended to further assess your unique case.
-      At the end of the visit, you will be provided with an individualized treatment plan and encouraged to ask questions to educate and empower you on your path to wellness!
+      At your first appointment, Dr. Burke will listen to your present health concerns and evaluate your medical history to better understand your personal wellness goals. 
+      Additionally, she may inquire about previous bloodwork and imaging, as well as current medications and supplements.
+      At the end of the visit, you will be provided with an individualized treatment plan as well as ample time to ask questions to empower you on your path to wellness! 
       </p>
     # open: true
   - question: Are in-person visits required?
@@ -79,7 +77,7 @@ faq:
       <p> Dr. Burke works with every budget to provide optimal care to her patients.<p>
   - question: What conditions do you treat?
     answer: |
-      <p>Dr. Burke is well versed in a variety of health conditions and concerns. However, her practice focuses in Thyroid, Adrenal, Hormonal Balancing, Women's Medicine, and Digestive Health. Please see the services page for additional information.</p>
+      <p>Dr. Burke is well versed in a variety of health conditions and concerns. However, her practice focuses in Thyroid, Adrenal, Hormonal Balancing, Women's Medicine, and Digestive Health. Please see the <a href="https://drtaraburke.com/#services">services page</a> for additional information.</p>
       <p>If your specific condition is not listed but you're still interested in consulting with Dr. Burke, please arrange a discovery call with her. This call will help determine whether your concern aligns well with her expertise. Please note that Dr. Burke does not provide primary care services such as Well Women’s exams, PAPs, or Acute Care.</p>
   - question: How many visits are required?
     answer: |
