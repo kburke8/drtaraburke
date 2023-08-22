@@ -27,4 +27,6 @@ When scheduling your next visit, be aware that all patients requiring a refill o
 
 Being present in person allows us to accurately measure vital signs and conduct a comprehensive health assessment. This is particularly important for patients taking prescription medications, as it helps us confirm the ongoing suitability and safety of treatment.
 
+Please review the FAQ to learn more.
+
 ***
