@@ -13,7 +13,7 @@ read_time: false
 show_date: false
 ---
 # Alternative Treatments for Polycystic Ovary Syndrome (PCOS)
-Polycystic Ovary Syndrome, abbreviated PCOS, is a common female hormone disorder with symptoms such as irregular or absent periods, unwanted hair growth, and acne. Common conventional treatments for PCOS are hormonal birth control and medication to help blood sugar and high testosterone levels. There are many safe alternative treatments that are effective and natural.
+Polycystic Ovary Syndrome, abbreviated PCOS, is a common female hormone disorder with symptoms such as irregular or absent periods, unwanted hair growth, and acne. Common conventional treatments for PCOS are hormonal birth control and medication to help blood sugar and high testosterone levels. There are many safe alternative recommendations that are effective and natural.
 
 ***
 
@@ -51,7 +51,7 @@ For many women conventional treatment is adequate but side effects from the pill
 
 If conventional treatment isn’t right for you, or you would like adjunctive care, there are many alternative options that are effective for PCOS.
 
-### Alternative Treatment for PCOS:
+### Alternative Recommendations for PCOS:
 
 First things first – lifestyle! Exercise not only helps with weight management but with blood sugar, cardiovascular health. 2 Additionally it can help with more regular menstrual cycles. [^4] Additionally, avoiding detrimental environmental factors can be helpful for PCOS. [^5]
 
@@ -65,11 +65,11 @@ Lastly, acupuncture can be a great addition to any of the care options discussed
 
 ## Understanding Your Options:
 
-Conventional treatments are effective for many patients with PCOS.  Alternative treatments can help not only help with managing symptoms but also with increasing fertility. When all aspects of health are addressed, hormonal balance can be restored.
+Conventional treatments are effective for many patients with PCOS.  Alternative options can help not only help with managing symptoms but also with increasing fertility. When all aspects of health are addressed, hormonal balance can be restored.
 
 Before deciding on a treatment option or change to your treatment plan, please speak to your doctor.
 
-If you have been diagnosed with PCOS or think you may have PCOS and are interested in alternative treatments I am here to answer questions and help get you back to feeling well again!
+If you have been diagnosed with PCOS or think you may have PCOS and are interested in alternative recommendations I am here to answer questions and help get you back to feeling well again!
 
 ***
 

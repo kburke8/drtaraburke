@@ -87,7 +87,7 @@ Whether a diet plan based around these changes is appropriate for you can be bes
 
 ### Bioidentical Hormone Replacement Therapy (BHRT):
 
-For my women who have more severe symptoms supplements to balance hormones may not be enough and in this case Bioidentical Hormone Replacement Therapy (BHRT) can be a great option. With proper labs, follow-up, and customized dosing, this can be a safe step up in a patient’s therapy from more natural treatments. Remember, it’s all about safety first, so using the lowest level of therapy to provide adequate symptom relief is ideal!
+For my women who have more severe symptoms supplements to balance hormones may not be enough and in this case Bioidentical Hormone Replacement Therapy (BHRT) can be a great option. With proper labs, follow-up, and customized dosing, this can be a safe step up in a patient’s therapy from more natural options. Remember, it’s all about safety first, so using the lowest level of therapy to provide adequate symptom relief is ideal!
 
 There is no one herb, nutritional plan, product, or therapy that is good for everything hormones related. It is vital to determine what type of hormone imbalance you have and why. Finding the root cause to your health issues can bring you back to long-lasting optimal health – herbals, nutrition, and medications can help you there. A qualified health care professional can offer testing, interpretation, diagnosis, and treatment for your unique needs and goals!
 

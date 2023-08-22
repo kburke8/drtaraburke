@@ -60,7 +60,7 @@ Glycyrrhiza glabra, better known as [licorice](https://www.webmd.com/vitamins/ai
 
 Nigella Sativa, or [black cumin](https://www.webmd.com/vitamins/ai/ingredientmono-901/black-seed), is used in autoimmune conditions like Hashimotos. It can help decrease elevated antibody levels seen on labs. It has also been reported to help decrease TSH levels and raise T3 levels, in addition to helping to reduce weight gain often seen in hypothyroid patients.[^5] Unlike the previous herbs, this is generally prescribed in a capsule instead of as a tincture.
 
-* ***THE BOTTOM LINE:*** Black cumin is an excellent herb for autoimmune hypothyroid conditions that helps with inflammation, weight gain, and TSH/T3 levels from labs. Black cumin is a great start to treating your hypothyroid condition, but is likely not enough on it’s own.
+* ***THE BOTTOM LINE:*** Black cumin is an excellent herb for autoimmune hypothyroid conditions that helps with inflammation, weight gain, and TSH/T3 levels from labs. Black cumin is a great start to helping your hypothyroid condition, but is likely not enough on it’s own.
 
 *** 
 
@@ -72,7 +72,7 @@ Nigella Sativa, or [black cumin](https://www.webmd.com/vitamins/ai/ingredientmon
 
 While all of these herbs have traditionally been used in hypothyroid, they are typically not enough. Serious long-term effects can result from attempting to treat your hypothyroid condition with herbals alone. Negative effects from not properly treating hypoythroid conditions include elevations in cholesterol and lipids, [^3],[^6]  decreased fertility,[^7]  and  poor gastrointestinal health. Elevations in TSH can promote unwanted growth of the thyroid gland which is exceedingly important to take into consideration for patients with a history of nodules or thyroid cancer.[^8] Regular thyroid labs and imaging completed by your healthcare professional are important for the diagnosis and management of hypothyroidism. For more info on how to test your thyroid please check out this article about [which labs should be run](https://drtaraburke.com/thyroid-testing/). 
 
-It is also critical to find the root cause of your hypothyroid before starting any natural treatments. Depending on the cause of your sluggish thyroid, herbal products may not be indicated and could cause more harm. Talking with your doctor before starting natural treatments is important.
+It is also critical to find the root cause of your hypothyroid before starting any natural options. Depending on the cause of your sluggish thyroid, herbal products may not be indicated and could cause more harm. Talking with your doctor before starting natural options is important.
 
 ***
 
@@ -84,7 +84,7 @@ Well this is when medications are indicated and imperative. There are various me
 
 ## Conclusion
 
-Traditionally used herbs for hypothyroid are often not sufficient to treat hypothyroidism on their own. They are a great option to be used in conjunction with medications and dietary changes. It can help make you feel better by relieving symptoms like fatigue, weight gain, and stress, and in addition decrease elevated thyroid antibodies seen in autoimmune hypothyroid conditions. Before deciding on a treatment option or change to your treatment plan, please speak to your doctor. 
+Traditionally used herbs for hypothyroid are not sufficient to treat hypothyroidism on their own. They are a great option to be used in conjunction with medications and dietary changes. It can help make you feel better by relieving symptoms like fatigue, weight gain, and stress, and in addition decrease elevated thyroid antibodies seen in autoimmune hypothyroid conditions. Before deciding on a treatment option or change to your treatment plan, please speak to your doctor. 
 
 Naturopathic doctors have the knowledge to customize herbal prescriptions that are tailored to your unique health concerns and can safely be used with many medications. Naturopathic doctors also can help with choosing a thyroid medication that fits your unique goals and situation.
 

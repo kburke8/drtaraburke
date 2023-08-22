@@ -45,11 +45,11 @@ Once the cause of irregular menstrual cycles has been identified, treatment opti
 
 * **Lifestyle/Nutrition**
 
-Dr. Burke provides both conventional and alternative treatment options that are effective.
+Dr. Burke provides both conventional and alternative options that are effective.
 
-At your New Patient appointment, Dr. Burke will go through your current concerns, medical, family, and social history. She will also perform any indicated physical exams and provide ample time for questions. At the end of your visit she will provide any indicated treatment options and will order specific and comprehensive lab work for your health concerns and goals. After your lab work is received, Dr. Burke will interpret your labs using optimal reference ranges and the context of the values in relation to each other, prior to your next appointment.
+At your New Patient appointment, Dr. Burke will go through your current concerns, medical, family, and social history. She will also perform any indicated physical exams and provide ample time for questions. At the end of your visit she will provide any indicated options and will order specific and comprehensive lab work for your health concerns and goals. After your lab work is received, Dr. Burke will interpret your labs using optimal reference ranges and the context of the values in relation to each other, prior to your next appointment.
 
-At your follow-up appointment Dr. Burke will provide a comprehensive individualized treatment plan – including dietary and lifestyle recommendations, supplemental/herbal support, and, if appropriate, will discuss pharmaceutical options.
+At your follow-up appointment Dr. Burke will provide a comprehensive individualized plan – including dietary and lifestyle recommendations, supplemental/herbal support, and, if appropriate, will discuss pharmaceutical options.
 
 After your initial and first follow-up appointment, Dr. Burke may recommend regular lab testing and check ins to provide safe, individualized, and effective care!
 
