@@ -41,9 +41,7 @@ There are multiple female hormones that PCOS will affect like androgens, estroge
 ### Androgens:
 
 All females normally produce small amounts of androgens, like testosterone. In PCOS patients these androgens are usually greatly elevated. 
-### Estrogen: 
 
-One of the most common clinical patterns I see in PCOS patients is estrogen dominance. This happens when your estrogen levels are too high relative to progesterone levels. If you need a refresher on what estrogen dominance is click here. There are three forms of estrogen in our body- Estradiol (E2), Estrone (E1), and Estriol (E3). Premenopausal Estradiol should be the dominant form of estrogen. Postmenopausal Estrone takes over as the dominant from of estrogen and in pregnancy Estriol is dominant. In PCOS patients, I often see Estrone levels higher then Estradiol, this is problematic for these patients and can impact symptoms and fertility. 
 ### Progesterone:
 
 Progesterone levels are often decreased in PCOS. 

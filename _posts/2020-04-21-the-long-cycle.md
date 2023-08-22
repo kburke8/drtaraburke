@@ -78,7 +78,7 @@ In general, I would order a comprehensive set of labs to look at what your hormo
 
 **Basic –** CBC, CMP, Lipids 
 
-**Hormones –** Estradiol, Estrone, Progesterone, Testosterone, LH, FSH, Prolactin, DHEA-S, SHBG (It is important to note that it is preferential to have hormones tested on certain days of your cycle, this can be difficult to determine if your cycle is very irregular so it is best to talk with a healthcare professional to determine what day is best for you) 
+**Hormones –** Estradiol, Progesterone, Testosterone, LH, FSH, Prolactin, DHEA-S, SHBG (It is important to note that it is preferential to have hormones tested on certain days of your cycle, this can be difficult to determine if your cycle is very irregular so it is best to talk with a healthcare professional to determine what day is best for you) 
 
 **Thyroid –** TSH, FT3, FT4, Thyroid Antibodies
 
