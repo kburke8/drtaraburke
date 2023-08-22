@@ -28,25 +28,3 @@ When scheduling your next visit, be aware that all patients requiring a refill o
 Being present in person allows us to accurately measure vital signs and conduct a comprehensive health assessment. This is particularly important for patients taking prescription medications, as it helps us confirm the ongoing suitability and safety of treatment.
 
 ***
-
-Dr. Burke works with patients in addressing the following health conditions:
-
-- PCOS
-
-- Irregular or Absent Menstrual Cycles
-
-- Menopause
-
-- Perimenopause
-
-- PMS/PMDD
-
-- Hypothyroidism
-
-- Hashimoto's disease
-
-- Hormone Health
-
-- Digestive Health
-
-If your specific condition is not listed but you're still interested in consulting with Dr. Burke, please arrange a discovery call with her. This call will help determine whether your concern aligns well with her expertise. Please note that Dr. Burke does not provide primary care services such as Well Women’s exams, PAPs, or Acute Care. 
