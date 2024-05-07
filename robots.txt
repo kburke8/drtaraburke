@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://drtaraburke.com/sitemap.xml
+Sitemap: https://drtaraburke.com/sitemap.xml
