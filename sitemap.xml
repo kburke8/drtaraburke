@@ -6,10 +6,6 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
 <loc>https://drtaraburke.com/</loc>
-<image:image>
-      <image:loc>https://drtaraburke.com/assets/img/team/tara-cropped-seo-image.png</image:loc>
-      <image:caption>Dr. Tara Burke, NMD, Naturopathic Doctor in Scottsdale, Arizona</image:caption>
-</image:image>
 <lastmod>2024-05-06T02:40:58+00:00</lastmod>
 <priority>1.00</priority>
 </url>
