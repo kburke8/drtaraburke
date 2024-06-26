@@ -45,7 +45,7 @@ team:
       - name: "Meet Dr. Burke"
         role: "Naturopathic Medical Doctor"
         image: assets/img/team/dr-tara-burke-nmd.webp
-        alt: Scottsdale Naturopathic Doctor
+        alt: Dr. Tara Burke, NMD, Naturopathic Doctor in Scottsdale, Arizona
         social:
           - url: https://www.facebook.com/drtaraburke?rel=noreferrer
             icon: "fab fa-facebook-f"
