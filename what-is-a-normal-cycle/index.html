@@ -23,13 +23,14 @@
     <!-- Content Security Policy -->
     <meta http-equiv="Content-Security-Policy" content="
     default-src 'self';
-    script-src 'self' https://apis.google.com https://www.google-analytics.com https://js.stripe.com;
+    script-src 'self' 'unsafe-inline' 'unsafe-eval' https://apis.google.com https://www.google-analytics.com https://js.stripe.com https://static.cloudflareinsights.com;
     style-src 'self' 'unsafe-inline';
     font-src 'self';
     img-src 'self' data: https://maps.googleapis.com;
-    connect-src 'self' https://analytics.google.com https://www.google-analytics.com https://ehr.charmtracker.com https://maps.googleapis.com https://formspee.io;
+    connect-src 'self' https://analytics.google.com https://www.google-analytics.com https://ehr.charmtracker.com https://maps.googleapis.com https://formspree.io;
     frame-src 'self';
 ">
+
 
   
   <meta name="description" content="A typical cycle comes every 25-30 days, menses is 5-7 days. As far as flow is concerned, you should not have to...">
