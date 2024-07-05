@@ -1,118 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-<loc>https://drtaraburke.com/</loc>
-<image:image>
+      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+      
+  <!-- Homepage -->
+  <url>
+    <loc>https://drtaraburke.com/</loc>
+    <image:image>
       <image:loc>https://drtaraburke.com/assets/img/team/tara-cropped-seo-image.png</image:loc>
       <image:caption>Dr. Tara Burke, NMD, Naturopathic Doctor in Scottsdale, Arizona</image:caption>
-</image:image>
-<lastmod>2024-05-06T02:40:58+00:00</lastmod>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>https://drtaraburke.com/book</loc>
-<lastmod>2024-04-27T02:40:58+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://drtaraburke.com/thyroid-health</loc>
-<lastmod>2024-04-27T02:40:58+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://drtaraburke.com/hormone-balancing</loc>
-<lastmod>2024-04-27T02:40:58+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://drtaraburke.com/adrenal-support</loc>
-<lastmod>2024-04-27T02:40:58+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://drtaraburke.com/digestive-health</loc>
-<lastmod>2024-04-27T02:40:58+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://drtaraburke.com/pcos</loc>
-<lastmod>2024-04-27T02:40:58+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://drtaraburke.com/menopause-consult</loc>
-<lastmod>2024-04-27T02:40:58+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://drtaraburke.com/the-long-cycle/</loc>
-<lastmod>2024-04-27T02:40:58+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>
-https://drtaraburke.com/heart-health-in-thyroid-disease/
-</loc>
-<lastmod>2024-04-27T02:40:58+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://drtaraburke.com/hormones-in-pcos/</loc>
-<lastmod>2024-04-27T02:40:58+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>
-https://drtaraburke.com/what-do-my-hormones-look-like-on-the-pill/
-</loc>
-<lastmod>2024-04-27T02:40:58+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://drtaraburke.com/what-is-a-normal-cycle/</loc>
-<lastmod>2024-04-27T02:40:58+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>
-https://drtaraburke.com/top-health-concerns-in-busy-moms/
-</loc>
-<lastmod>2024-04-27T02:40:58+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>
-https://drtaraburke.com/supplements-to-balance-hormones/
-</loc>
-<lastmod>2024-04-27T02:40:58+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://drtaraburke.com/herbs-for-hypothyroid/</loc>
-<lastmod>2024-04-27T02:40:58+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>
-https://drtaraburke.com/toxin-free-choices-for-babies/
-</loc>
-<lastmod>2024-04-27T02:40:58+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://drtaraburke.com/thyroid-testing/</loc>
-<lastmod>2024-04-27T02:40:58+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>
-https://drtaraburke.com/alternative-treatments-for-polycystic-ovarian-syndrome-pcos/
-</loc>
-<lastmod>2024-04-27T02:40:58+00:00</lastmod>
-<priority>0.64</priority>
-</url>
+    </image:image>
+    <lastmod>2024-05-06T02:40:58+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- Homepage Sections -->
+  <url>
+    <loc>https://drtaraburke.com/#about</loc>
+    <lastmod>2024-05-06T02:40:58+00:00</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://drtaraburke.com/#services</loc>
+    <lastmod>2024-05-06T02:40:58+00:00</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://drtaraburke.com/#faq</loc>
+    <lastmod>2024-05-06T02:40:58+00:00</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Individual Pages -->
+  <url>
+    <loc>https://drtaraburke.com/book</loc>
+    <lastmod>2024-04-27T02:40:58+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://drtaraburke.com/thyroid-health</loc>
+    <lastmod>2024-04-27T02:40:58+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://drtaraburke.com/hormone-balancing</loc>
+    <lastmod>2024-04-27T02:40:58+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://drtaraburke.com/adrenal-support</loc>
+    <lastmod>2024-04-27T02:40:58+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://drtaraburke.com/digestive-health</loc>
+    <lastmod>2024-04-27T02:40:58+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://drtaraburke.com/pcos</loc>
+    <lastmod>2024-04-27T02:40:58+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://drtaraburke.com/menopause-consult</loc>
+    <lastmod>2024-04-27T02:40:58+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Blog Posts -->
+  <url>
+    <loc>https://drtaraburke.com/the-long-cycle/</loc>
+    <lastmod>2024-04-27T02:40:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://drtaraburke.com/heart-health-in-thyroid-disease/</loc>
+    <lastmod>2024-04-27T02:40:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://drtaraburke.com/hormones-in-pcos/</loc>
+    <lastmod>2024-04-27T02:40:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://drtaraburke.com/what-do-my-hormones-look-like-on-the-pill/</loc>
+    <lastmod>2024-04-27T02:40:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://drtaraburke.com/what-is-a-normal-cycle/</loc>
+    <lastmod>2024-04-27T02:40:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://drtaraburke.com/top-health-concerns-in-busy-moms/</loc>
+    <lastmod>2024-04-27T02:40:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://drtaraburke.com/supplements-to-balance-hormones/</loc>
+    <lastmod>2024-04-27T02:40:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://drtaraburke.com/herbs-for-hypothyroid/</loc>
+    <lastmod>2024-04-27T02:40:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://drtaraburke.com/toxin-free-choices-for-babies/</loc>
+    <lastmod>2024-04-27T02:40:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://drtaraburke.com/thyroid-testing/</loc>
+    <lastmod>2024-04-27T02:40:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://drtaraburke.com/alternative-treatments-for-polycystic-ovarian-syndrome-pcos/</loc>
+    <lastmod>2024-04-27T02:40:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://drtaraburke.com/is-hrt-right-for-me/</loc>
+    <lastmod>2024-04-27T02:40:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <!-- Add more posts here -->
 </urlset>

@@ -52,7 +52,7 @@
   
   <meta property="og:image" content="https://drtaraburke.com/assets/img/team/tara-cropped-seo-image.png">
   <meta property="og:image:width" content="1200" />
-  <meta property="og:image:height" content="1200" />
+  <meta property="og:image:height" content="627" />
   <meta property="og:url" content="https://drtaraburke.com/the-long-cycle/">
   <meta property="og:type" content="article">
   
@@ -116,171 +116,270 @@
   
 <script type="application/ld+json">
   {
-    "@context" : "http://schema.org",
-    "@type" : "LocalBusiness",
-    "name" : "Dr. Tara Burke, NMD",
-    "image" : "https://drtaraburke.com/assets/img/team/dr-tara-burke-share.webp",
-    "telephone" : "(480) 702-1445",
-    "priceRange" : "$",
-    "address" : {
-      "@type" : "PostalAddress",
-      "streetAddress" : "8700 E. Vista Bonita Dr. Suite 200",
-      "addressLocality" : "Scottsdale",
-      "addressRegion" : "Arizona",
-      "postalCode" : "85255"
-    },
-    "url" : "https://drtaraburke.com/",
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": "33.69677967929053",
-      "longitude": "-111.89351455131789"
-    },
-    "openingHours": "Mo,Tu,We,Th,Fr 09:00-17:00",
-    "aggregateRating" : {
-      "@type" : "AggregateRating",
-      "ratingValue" : "5.0",
-      "bestRating" : "5.0",
-      "worstRating" : "5.0",
-      "ratingCount" : "7"
-    },
-    "review": [
-    {
-      "@type": "Review",
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5"
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://drtaraburke.com/#website",
+        "url": "https://drtaraburke.com/",
+        "name": "Dr. Tara Burke, NMD",
+        "description": "Naturopathic Doctor specializing in hormone health, thyroid, and PCOS"
       },
-      "author": {
+      {
+        "@type": ["LocalBusiness", "MedicalBusiness"],
+        "@id": "https://drtaraburke.com/#localbusiness",
+        "name": "Dr. Tara Burke, NMD",
+        "legalName": "Blossom Wellness, LLC",
+        "url": "https://drtaraburke.com/",
+        "telephone": "(480) 702-1445",
+        "priceRange": "$",
+        "image": {
+          "@type": "ImageObject",
+          "@id": "https://drtaraburke.com/#drburkeimage",
+          "url": "https://drtaraburke.com/assets/img/team/tara-cropped-seo-image.png",
+          "contentUrl": "https://drtaraburke.com/assets/img/team/tara-cropped-seo-image.png",
+          "width": 1200,
+          "height": 630,
+          "caption": "Dr. Tara Burke, NMD"
+        },
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "8700 E. Vista Bonita Dr. Suite 200",
+          "addressLocality": "Scottsdale",
+          "addressRegion": "Arizona",
+          "addressCountry": "US",
+          "postalCode": "85255"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "33.69677967929053",
+          "longitude": "-111.89351455131789"
+        },
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+            "opens": "09:00",
+            "closes": "17:00"
+          }
+        ],
+        "sameAs": [
+          "https://www.facebook.com/drtaraburke",
+          "https://www.youtube.com/channel/UCrr_4UKW_A_fk-5kVoWsovQ",
+          "https://www.pinterest.com/drtaraburke",
+          "https://www.instagram.com/dr.taraburke"
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5.0",
+          "worstRating": "5.0",
+          "ratingCount": "8"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rebecca M."
+            },
+            "reviewBody": "Dr. Burke is extremely kind, caring, and understanding. No one enjoys going to the doctor, but I look forward to our appointments together. I have recommended her to my friends, and I recommend her to you."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kelley M."
+            },
+            "reviewBody": "I'm so happy I found Dr. Tara Burke. I was struggling with anxiety and depression, lack of energy and just feeling blah after stopping my birth control after 30 years. My hormones were out of whack and I just felt "off" but didn't know what to do. I found Dr. Burke online and had a great first meeting with her where we thoroughly discussed all my concerns and how I was feeling. She was so patient, listened well, asked lots of questions, never rushed me and was genuinely sympathetic and positive. She explained how hormones work, how they affect our mood/health and how they change constantly with age. She ordered bloodwork and we reviewed the results together. She prescribed a protocol of different supplements, routines and diet changes to get me more balanced. Everything she recommended helped me tremendously and is still part of my daily routine today. It was easy to schedule appointments with her and she is always responsive by email and willing to answer any questions. I sincerely appreciate her very gentle and conservative approach and I feel she is genuinely invested in my health and well-being. I will continue to see Dr. Tara regularly for my overall health maintenance and would high recommend her to anyone!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah D."
+            },
+            "reviewBody": "Dr. Burke is everything I was looking for in a doctor! She listens and asks the right questions to fully understand your unique situation, needs, and goals. She's always super clear on next steps and is always available for questions between visits. So grateful I found her! Only wish I could continue working with her as we move out of state."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Becks M."
+            },
+            "reviewBody": "Besides being very intelligent and really knowing how to get to the root of my health issues, Dr. Burke is extremely kind, caring, and understanding.  No one enjoys going to the doctor, but I look forward to our appointments together.  I have recommended her to my friends, and I recommend her to you."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sylvia M."
+            },
+            "reviewBody": "I am very pleased with the care provided by Dr.Tara. She truly cares about my overall well being. She has proven to be invested on my health. She is quick to respond when I reach out for help. Her staff is very friendly and helpful. I can't recommend Blossome Wellness enough. I am finally feeling relief with my PCOS."
+          }
+        ]
+      },
+      {
         "@type": "Person",
-        "name": "Rebecca M."
+        "@id": "https://drtaraburke.com/#person",
+        "name": "Dr. Tara Burke",
+        "jobTitle": "Naturopathic Doctor",
+        "description": "Dr. Tara Burke is a Naturopathic Doctor in Scottsdale, Arizona. She specializes in hormone balancing, thyroid health, and PCOS.",
+        "image": {
+          "@type": "ImageObject",
+          "@id": "https://drtaraburke.com/#drburkeimage",
+          "url": "https://drtaraburke.com/assets/img/team/tara-cropped-seo-image.png",
+          "contentUrl": "https://drtaraburke.com/assets/img/team/tara-cropped-seo-image.png",
+          "width": 1200,
+          "height": 630,
+          "caption": "Dr. Tara Burke, Naturopathic Doctor"
+        },
+        "url": "https://drtaraburke.com",
+        "telephone": "(480) 702-1445",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "8700 E. Vista Bonita Dr. Suite 200",
+          "addressLocality": "Scottsdale",
+          "addressRegion": "AZ",
+          "addressCountry": "US",
+          "postalCode": "85255"
+        },
+        "affiliation": {
+          "@type": "Organization",
+          "name": "Blossom Wellness, LLC"
+        }
       },
-      "reviewBody": "Dr. Burke is extremely kind, caring, and understanding. No one enjoys going to the doctor, but I look forward to our appointments together. I have recommended her to my friends, and I recommend her to you."
-    },
-    {
-      "@type": "Review",
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5"
+      {
+        "@type": "MedicalCondition",
+        "@id": "https://drtaraburke.com/#thyroidimbalance",
+        "name": "Thyroid Imbalance",
+        "associatedAnatomy": {
+          "@type": "AnatomicalStructure",
+          "name": "Thyroid Gland"
+        },
+        "signOrSymptom": [
+          {
+            "@type": "MedicalSignOrSymptom",
+            "name": "Weight Gain"
+          },
+          {
+            "@type": "MedicalSignOrSymptom",
+            "name": "Fatigue"
+          }
+        ],
+        "possibleTreatment": {
+          "@type": "LifestyleModification",
+          "name": "Dietary Adjustments for Thyroid Health",
+          "description": "Dietary adjustments focusing on the intake of essential nutrients like iodine and selenium, which are critical for thyroid function."
+        },
+        "url": "https://drtaraburke.com/thyroid-health"
       },
-      "author": {
-        "@type": "Person",
-        "name": "Kelley M."
+      {
+        "@type": "MedicalCondition",
+        "@id": "https://drtaraburke.com/#hormonebalancing",
+        "name": "Hormone Balancing",
+        "signOrSymptom": [
+          {
+            "@type": "MedicalSignOrSymptom",
+            "name": "Mood Swings"
+          },
+          {
+            "@type": "MedicalSignOrSymptom",
+            "name": "Irregular Menstrual Cycle"
+          }
+        ],
+        "possibleTreatment": {
+          "@type": "LifestyleModification",
+          "name": "Lifestyle and Dietary Changes for Hormone Balance",
+          "description": "Incorporating a balanced diet, regular physical activity, and stress reduction techniques to maintain hormonal balance."
+        },
+        "url": "https://drtaraburke.com/hormone-balancing"
       },
-      "reviewBody": "I’m so happy I found Dr. Tara Burke. I was struggling with anxiety and depression, lack of energy and just feeling blah after stopping my birth control after 30 years. My hormones were out of whack and I just felt “off” but didn’t know what to do. I found Dr. Burke online and had a great first meeting with her where we thoroughly discussed all my concerns and how I was feeling. She was so patient, listened well, asked lots of questions, never rushed me and was genuinely sympathetic and positive. She explained how hormones work, how they affect our mood/health and how they change constantly with age. She ordered bloodwork and we reviewed the results together. She prescribed a protocol of different supplements, routines and diet changes to get me more balanced. Everything she recommended helped me tremendously and is still part of my daily routine today. It was easy to schedule appointments with her and she is always responsive by email and willing to answer any questions. I sincerely appreciate her very gentle and conservative approach and I feel she is genuinely invested in my health and well-being. I will continue to see Dr. Tara regularly for my overall health maintenance and would high recommend her to anyone!"
-    },
-    {
-      "@type": "Review",
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5"
+      {
+        "@type": "MedicalCondition",
+        "@id": "https://drtaraburke.com/#pcos",
+        "name": "Polycystic Ovary Syndrome (PCOS)",
+        "signOrSymptom": [
+          {
+            "@type": "MedicalSignOrSymptom",
+            "name": "Irregular Menstrual Periods"
+          },
+          {
+            "@type": "MedicalSignOrSymptom",
+            "name": "Excessive Hair Growth"
+          }
+        ],
+        "possibleTreatment": {
+          "@type": "LifestyleModification",
+          "name": "Management of PCOS through Lifestyle Changes",
+          "description": "Managing PCOS through a combination of dietary changes, regular exercise, and weight management strategies to improve symptoms."
+        },
+        "url": "https://drtaraburke.com/pcos"
       },
-      "author": {
-        "@type": "Person",
-        "name": "Sarah D."
-      },
-      "reviewBody": "Dr. Burke is everything I was looking for in a doctor! She listens and asks the right questions to fully understand your unique situation, needs, and goals. She’s always super clear on next steps and is always available for questions between visits. So grateful I found her! Only wish I could continue working with her as we move out of state."
-    },
-    {
-      "@type": "Review",
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5"
-      },
-      "author": {
-        "@type": "Person",
-        "name": "Becks M."
-      },
-      "reviewBody": "Besides being very intelligent and really knowing how to get to the root of my health issues, Dr. Burke is extremely kind, caring, and understanding.  No one enjoys going to the doctor, but I look forward to our appointments together.  I have recommended her to my friends, and I recommend her to you."
-    },
-    {
-      "@type": "Review",
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5"
-      },
-      "author": {
-        "@type": "Person",
-        "name": "Sylvia M."
-      },
-      "reviewBody": "I am very pleased with the care provided by Dr.Tara. She truly cares about my overall well being. She has proven to be invested on my health. She is quick to respond when I reach out for help. Her staff is very friendly and helpful. I can’t recommend Blossome Wellness enough. I am finally feeling relief with my PCOS."
-    }
-  ]
-  },
-  {
-    "@context": "http://schema.org",
-    "@type": "Person",
-    "name": "Dr. Tara Burke",
-    "jobTitle": "Naturopathic Doctor",
-    "affiliation": "Blossom Wellness",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "8700 E. Vista Bonita Dr. Suite 200",
-      "addressLocality": "Scottsdale",
-      "addressRegion": "AZ",
-      "postalCode": "85255"
-    },
-    "url": "https://drtaraburke.com",
-    "telephone": "(480) 702-1445"
-  },
-  {
-    "@context": "http://schema.org",
-    "@type": "MedicalCondition",
-    "name": "Thyroid Imbalance",
-    "associatedAnatomy": {
-      "@type": "AnatomicalStructure",
-      "name": "Thyroid Gland"
-    },
-    "signOrSymptom": [{
-      "@type": "MedicalSignOrSymptom",
-      "name": "Weight Gain"
-    }, {
-      "@type": "MedicalSignOrSymptom",
-      "name": "Fatigue"
-    }],
-    "possibleTreatment": {
-      "@type": "LifestyleModification",
-      "name": "Dietary Adjustments for Thyroid Health",
-      "description": "Dietary adjustments focusing on the intake of essential nutrients like iodine and selenium, which are critical for thyroid function."
-    },
-    "url": "https://drtaraburke.com/thyroid-health"
-  },
-  {
-    "@context": "http://schema.org",
-    "@type": "MedicalCondition",
-    "name": "Hormone Balancing",
-    "signOrSymptom": [{
-      "@type": "MedicalSignOrSymptom",
-      "name": "Mood Swings"
-    }, {
-      "@type": "MedicalSignOrSymptom",
-      "name": "Irregular Menstrual Cycle"
-    }],
-    "possibleTreatment": {
-      "@type": "LifestyleModification",
-      "name": "Lifestyle and Dietary Changes for Hormone Balance",
-      "description": "Incorporating a balanced diet, regular physical activity, and stress reduction techniques to maintain hormonal balance."
-    },
-    "url": "https://drtaraburke.com/hormone-balancing"
-  },
-  {
-    "@context": "http://schema.org",
-    "@type": "MedicalCondition",
-    "name": "Polycystic Ovary Syndrome (PCOS)",
-    "signOrSymptom": [{
-      "@type": "MedicalSignOrSymptom",
-      "name": "Irregular Menstrual Periods"
-    }, {
-      "@type": "MedicalSignOrSymptom",
-      "name": "Excessive Hair Growth"
-    }],
-    "possibleTreatment": {
-      "@type": "LifestyleModification",
-      "name": "Management of PCOS through Lifestyle Changes",
-      "description": "Managing PCOS through a combination of dietary changes, regular exercise, and weight management strategies to improve symptoms."
-    },
-    "url": "https://drtaraburke.com/pcos"
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://drtaraburke.com/#breadcrumb",
+        "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "About",
+          "item": "https://drtaraburke.com/#about"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Book",
+          "item": "https://drtaraburke.com/book"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FAQ",
+          "item": "https://drtaraburke.com/#faq"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Services",
+          "item": "https://drtaraburke.com/#services"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Thyroid Health",
+          "item": "https://drtaraburke.com/thyroid-health"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Hormone Balancing",
+          "item": "https://drtaraburke.com/hormone-balancing"
+        }
+        ]
+      }
+    ]
   }
-}
   </script>
 
 </head>
