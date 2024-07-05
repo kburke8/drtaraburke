@@ -20,6 +20,17 @@
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Content Security Policy -->
+    <meta http-equiv="Content-Security-Policy" content="
+    default-src 'self';
+    script-src 'self' https://apis.google.com https://www.google-analytics.com https://js.stripe.com;
+    style-src 'self' 'unsafe-inline';
+    font-src 'self';
+    img-src 'self' data: https://maps.googleapis.com;
+    connect-src 'self' https://analytics.google.com https://www.google-analytics.com https://ehr.charmtracker.com https://maps.googleapis.com https://formspee.io;
+    frame-src 'self';
+">
+
   
   <meta name="description" content="I often get a questioning look from patients. “Why are you checking my cholesterol on a thyroid panel?” At first glance it may seem unrelated but...">
   
