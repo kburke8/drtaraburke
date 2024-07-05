@@ -103,7 +103,7 @@ faq:
 contact:
     title: "Request Info"
     text: |
-     <p>Please reach out with any questions, comments or to request an appointment. I can't wait to hear from you! </p>
+     <p>Please reach out with any questions or comments. To request an appointment, please use the online scheduler. I can't wait to hear from you! </p>
      <p>EXISTING PATIENTS: Please use Patient Portal for ANY messages.</p>
     section: contact
     
