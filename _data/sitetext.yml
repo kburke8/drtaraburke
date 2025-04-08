@@ -1,7 +1,7 @@
 header:
     title: Dr. Tara Burke
     text: Naturopathic Doctor
-    text2: Thyroid \| Hormone Balance \| Telemedicine
+    text2: Thyroid \| Hormone Balance \| Menopause
     text3: Scottsdale, Arizona
     button: Discovery Call
     buttonlink: "https://drtaraburke.com/book" # "#{section}" or "URL/page link"
@@ -69,7 +69,6 @@ faq:
       <p>All new patients and patients requiring a refill on a prescription pharmaceutical medication, including hormone replacement therapy, will require an in-person visit.</p>
       <p>Additionally, patients are required to be seen in person at least once per year.</p>
       <p>Being present in person allows us to accurately measure vital signs and conduct a comprehensive health assessment. This is particularly important for patients taking prescription medications, as it helps us confirm the ongoing suitability and safety of treatment.</p>
-      <p>Please note that temporary provisions and protections that enabled increased access to telemedicine during the COVID pandemic have now been lifted. As a result, we may now require in-person visits to ensure the highest quality of care and comprehensive assessment for our patients. This transition reflects our commitment to maintaining the standards of safety, accuracy, and personalized healthcare that are best achieved through face-to-face consultations.</p>
   - question: Do you accept insurance?
     answer: |
       <p>At this time we do not contract with insurance. We are better able to provide the services patients require with shorter wait times and longer, more meaningful visits.  </p>
@@ -85,10 +84,6 @@ faq:
       <p>Giving a generalized time frame is difficult as each patient and condition is different. As a general rule, you may start to feel some improvements after your first visit, but you should expect a few visits to see significant changes. Remember, for many chronic conditions, you didn’t start feeling poorly overnight - it likely took days, months, or even years.</p>
       <p>Remember, for many chronic conditions, you didn’t start feeling poorly overnight - it probably took days, months, or even years. The longer a conditions has been present, the longer it may take to heal.</p>
       <p>The longer a condition has been present, the longer it may take to heal. A better time frame can be established after your initial consultation based on your health goals and treatment plan.</p>
-  - question: Can you prescribe medications and controlled substances? 
-    answer: |
-      <p>Yes, in the state of Arizona, naturopathic doctors are able to prescribe medications.</p>
-      <p>Dr. Burke has a DEA number and can prescribe Schedule III, IV, and V controlled substances, when indicated.</p>
   - question: How much does a visit cost?
     answer: |
       <p>15 min Discovery Calls (New Patients Only) to discuss your health goals and options - <b>Complimentary</b></p>
@@ -96,9 +91,6 @@ faq:
       <p>- Existing Patient Follow Up Appointments: <b>$125</b></p>
       <p>For additional services or questions please contact the office at (480) 702-1445. Please note, if you have extensive health concerns or would like extra time we offer extended time slots at $90 for every additional 15min.</p>
       <p>** Rates are subject to change.</p>
-  - question: Does Dr. Burke see out-of-state telemedicine patients?
-    answer: |
-      <p>Dr. Burke is a licensed Naturopathic Doctor in the state of Arizona, you must be located in the state of Arizona during a telemedicine appointment with Dr. Burke.</p>
   
 contact:
     title: "Request Info"
