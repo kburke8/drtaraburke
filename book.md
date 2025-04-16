@@ -23,9 +23,7 @@ Please note the scheduler below requires payment up front for all patients. If y
 
 ***
 
-When scheduling your next visit, be aware that all patients requiring a refill on a prescription pharmaceutical medication, including hormone replacement therapy, will require an <b>in-person</b> visit.
-
-Being present in person allows us to accurately measure vital signs and conduct a comprehensive health assessment. This is particularly important for patients taking prescription medications, as it helps us confirm the ongoing suitability and safety of treatment.
+Being present in person allows us to accurately measure vital signs and conduct a comprehensive health assessment, and helps us confirm the ongoing suitability and safety of treatment.
 
 Please review the FAQ to learn more.
 

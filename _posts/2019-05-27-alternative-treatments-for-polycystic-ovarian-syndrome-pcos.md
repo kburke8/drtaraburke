@@ -57,7 +57,7 @@ First things first – lifestyle! Exercise not only helps with weight management
 
 Due to insulin resistance, diet plans focus on regulating blood sugar, such as decreasing carbohydrates, can also help. Avoidance of dairy has also been possibly associated with better outcomes for PCOS patients although further research is needed. [^6]
 
-There are various supplements and botanical medicines that are used in PCOS. For example, nutrients to help manage blood sugar and herbals to safely and effectively regulate the menstrual cycle. Herbs and supplements have to be chosen to best meet a person’s unique symptoms and goals, there is no one prescription fits all.
+There are various supplements and botanical medicines that are used in PCOS. For example, nutrients to help manage blood sugar and herbals to safely and effectively regulate the menstrual cycle. Herbs and supplements have to be chosen to best meet a person’s unique symptoms and goals, there is no one supplement fits all.
 
 Lastly, acupuncture can be a great addition to any of the care options discussed above. Acupuncture can be beneficial for managing PCOS symptoms and to regulate cycles 3  but it also can help to calm and reset the body, setting the groundwork for good health.
 

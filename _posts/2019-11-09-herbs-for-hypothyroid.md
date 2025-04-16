@@ -86,7 +86,7 @@ Well this is when medications are indicated and imperative. There are various me
 
 Traditionally used herbs for hypothyroid are not sufficient to treat hypothyroidism on their own. They are a great option to be used in conjunction with medications and dietary changes. It can help make you feel better by relieving symptoms like fatigue, weight gain, and stress, and in addition decrease elevated thyroid antibodies seen in autoimmune hypothyroid conditions. Before deciding on a treatment option or change to your treatment plan, please speak to your doctor. 
 
-Naturopathic doctors have the knowledge to customize herbal prescriptions that are tailored to your unique health concerns and can safely be used with many medications. Naturopathic doctors also can help with choosing a thyroid medication that fits your unique goals and situation.
+Naturopathic doctors have the knowledge to customize herbal supplements that are tailored to your unique health concerns and can safely be used with many medications. Naturopathic doctors also can help with choosing a thyroid medication that fits your unique goals and situation.
 
 If you have been diagnosed with hypothyroidism or Hashimotos, or think you may have hypothyroid I am here to answer questions and help get you back to feeling well again. 
 

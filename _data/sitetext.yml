@@ -66,9 +66,9 @@ faq:
     # open: true
   - question: Are in-person visits required?
     answer: |
-      <p>All new patients and patients requiring a refill on a prescription pharmaceutical medication, including hormone replacement therapy, will require an in-person visit.</p>
+      <p>All new patients will require an in-person visit.</p>
       <p>Additionally, patients are required to be seen in person at least once per year.</p>
-      <p>Being present in person allows us to accurately measure vital signs and conduct a comprehensive health assessment. This is particularly important for patients taking prescription medications, as it helps us confirm the ongoing suitability and safety of treatment.</p>
+      <p>Being present in person allows us to accurately measure vital signs and conduct a comprehensive health assessment, and helps us confirm the ongoing suitability and safety of treatment.</p>
   - question: Do you accept insurance?
     answer: |
       <p>At this time we do not contract with insurance. We are better able to provide the services patients require with shorter wait times and longer, more meaningful visits.  </p>
