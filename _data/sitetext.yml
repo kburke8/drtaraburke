@@ -37,15 +37,16 @@ services:
         icon: fas fa-comments
 
 team:
-    title: "Meet Dr. Burke"
+    title: "Meet The Team"
     #text: "Licensed Naturopathic Doctor"
     subtext:  Dr. Tara Burke is a licensed Naturopathic Doctor in Scottsdale, Arizona. Dr. Burke’s primary focus is in women’s medicine and endocrinology, having received extensive training in thyroid health, adrenal health, and hormone balance after graduation from the Sonoran University of Health Science (Formerly Southwest College of Naturopathic Medicine). She spends time with her patients to identify their individual health goals and treat, not just the symptoms, but the whole person. She utilizes lifestyle, nutrition, supplementation, herbals, and when indicated, medications, to find a solution for each of her patients. Ethical, evidence-based medicine is her top priority. Dr. Burke is currently practicing at Blossom Wellness in North Scottsdale, Arizona near to the Grayhawk, DC Ranch, Desert Ridge, and Pinnacle Peak areas. [Click Here to Schedule](https://drtaraburke.com/book). 
     section: about
     people:
-      - name: "Meet Dr. Burke"
+      - name: "Dr. Burke"
         role: "Naturopathic Medical Doctor"
         image: assets/img/team/dr-tara-burke-nmd.webp
         alt: Dr. Tara Burke, NMD, Naturopathic Doctor in Scottsdale, Arizona
+        description: Dr. Tara Burke is a licensed Naturopathic Doctor in Scottsdale, Arizona. Dr. Burke’s primary focus is in women’s medicine and endocrinology, having received extensive training in thyroid health, adrenal health, and hormone balance after graduation from the Sonoran University of Health Science (Formerly Southwest College of Naturopathic Medicine). She spends time with her patients to identify their individual health goals and treat, not just the symptoms, but the whole person. She utilizes lifestyle, nutrition, supplementation, herbals, and when indicated, medications, to find a solution for each of her patients. Ethical, evidence-based medicine is her top priority. Dr. Burke is currently practicing at Blossom Wellness in North Scottsdale, Arizona near to the Grayhawk, DC Ranch, Desert Ridge, and Pinnacle Peak areas. [Click Here to Schedule](https://drtaraburke.com/book). 
         social:
           - url: https://www.facebook.com/drtaraburke?rel=noreferrer
             icon: "fab fa-facebook-f"
@@ -55,6 +56,11 @@ team:
             icon: "fab fa-pinterest"
           - url: https://www.instagram.com/dr.taraburke/?rel=noreferrer
             icon: "fab fa-instagram"
+      - name: "Taylor Brune"
+        role: "Virtual Medical Assistant"
+        image: assets/img/team/taylor_brune.webp
+        alt: Taylor Brune, Virtual Medical Assistant
+        description: Hi, I’m Taylor — a Virtual Medical Assistant with a deep passion for healing and holistic medicine. I hold a Bachelor's degree in Integrative Health from Arizona State University and have witnessed the life-changing impact that Integrative and Naturopathic Medicine can have, not only in my own journey, but in the lives of those I care about. I believe my calling is to support patients in a way that helps them feel truly seen, heard, and valued. Outside of work, I enjoy reading, writing, and spending quality time with my loved ones, husband and my toy poodle, Charlie. I’m honored to walk alongside you on your path to healing.
 faq:
   - question: What should I expect at my first appointment?
     answer: |
