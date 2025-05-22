@@ -1,42 +1,50 @@
 <!-- About -->
-<section class="bg-beige page-section about" id="{{ site.data.sitetext.team.section | default: "about" }}">
+<section class="bg-beige page-section about"
+         id="{{ site.data.sitetext.team.section | default: "about" }}">
   <div class="container">
-    <div class="row">
-    <!-- <div class="col-lg-12 text-center">
-      <h2 class="section-heading text-uppercase">{{ site.data.sitetext.team.title }}</h2> 
-      <h3 class="section-subheading text-muted">{{ site.data.sitetext.team.text }}</h3>
-    </div> -->
-    </div>
-    <h3 style="display: flex; justify-content: center;">{{ site.data.sitetext.team.title }}</h3>
+
+    <!-- title + simple underline -->
+    <h3 class="text-center">{{ site.data.sitetext.team.title }}</h3>
+    <hr class="w-25 mx-auto mb-5"><!-- 25 %-wide rule, centred -->
+
     {% for person in site.data.sitetext.team.people %}
-    <div class="row">
-      <div class="col-sm-6 team-member">
-        <img class="lazyload" data-src="{{ person.image }}" alt="{{ person.alt }}">
-      </div>
-      <div class="col-sm-6 team-member">
-        <h4>{{ person.name }}</h3>
-        <!-- <p class="text-muted">{{ person.role }}</p> -->
-        <hr>
-      <p class="large text-muted">{{ person.description | markdownify }}</p>
-        
-        <ul class="list-inline social-buttons">
-        {% for network in person.social %}
-          <li class="list-inline-item">
-          <a href="{{ network.url }}">
-            <i class="{{ network.icon }}"></i>
+      <div class="row align-items-center mb-5"><!-- one team member -->
+
+        <!-- photo -->
+        <div class="col-md-6 mb-4 mb-md-0">
+          <img class="img-fluid rounded lazyload"
+               data-src="{{ person.image }}"
+               alt="{{ person.alt }}">
+        </div>
+
+        <!-- text -->
+        <div class="col-md-6">
+          <h4>{{ person.name }}</h4>
+          <hr>
+          <p class="large text-muted">{{ person.description | markdownify }}</p>
+
+          <!-- social icons -->
+          <ul class="list-inline social-buttons mb-4">
+            {% for network in person.social %}
+              <li class="list-inline-item">
+                <a href="{{ network.url }}"><i class="{{ network.icon }}"></i></a>
+              </li>
+            {% endfor %}
+          </ul>
+
+          <!-- CTA -->
+          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger mt-2"
+             href="https://drtaraburke.com/book">
+             Book an Appointment
           </a>
-          </li>
-        {% endfor %}
-        </ul>
-      </div>
-      <div class="col-lg-12" style="display: flex; justify-content: center;">
-        <br>
-        <br>
-        <br>
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://drtaraburke.com/book">Book an Appointment</a>
-      </div>
-    </div>
+        </div>
+      </div><!-- /.row -->
+
+      {%- unless forloop.last -%}
+        <!-- divider between people -->
+        <hr class="my-5">
+      {%- endunless -%}
     {% endfor %}
-  </div>
+  </div><!-- /.container -->
 </section>
-  <!-- End Team -->
+<!-- /About -->
