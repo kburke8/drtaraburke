@@ -21,9 +21,10 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jqBootstrapValidation/1.3.7/jqBootstrapValidation.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Content Security Policy -->
-    <meta http-equiv="Content-Security-Policy" content="
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!-- <meta http-equiv="Content-Security-Policy" content="
     default-src 'self';
     script-src 'self' 'unsafe-inline' 'unsafe-eval' https://apis.google.com https://www.google-analytics.com https://static.cloudflareinsights.com https://www.googletagmanager.com https://connect.facebook.net https://cdn.practicebetter.io https://cdn.practicebetterplugins.com https://ajax.googleapis.com https://cdnjs.cloudflare.com https://maps.googleapis.com https://maps.gstatic.com;
     style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
@@ -32,7 +33,21 @@
     frame-src 'self' https://ehr.charmtracker.com https://maps.google.com https://www.google.com https://www.googletagmanager.com https://my.practicebetter.io;
     connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://stats.g.doubleclick.net https://formspree.io https://www.google.com https://my.practicebetter.io https://maps.googleapis.com;
     form-action 'self' https://formspree.io;
-  ">
+  "> -->
+  <meta http-equiv="Content-Security-Policy" content="
+  default-src * 'unsafe-inline' 'unsafe-eval' data: blob:;
+  script-src * 'unsafe-inline' 'unsafe-eval' data: blob:;
+  style-src * 'unsafe-inline' data:;
+  img-src * data: blob:;
+  font-src * data:;
+  frame-src *;
+  connect-src *;
+  media-src *;
+  object-src *;
+  child-src *;
+  form-action *;
+">
+
   
 
   
