@@ -39,7 +39,7 @@ This new platform offers:
 - Integrated video calls and secure messaging
 - Better organization for your health goals and action plans
 
-Starting July 1, 2025, we will no longer use ChARm for new appointments, messaging, or document sharing. If you’ve had a visit within the last 6 months, you’ll receive an email invitation soon to activate your new **Practice Better** account. If it’s been longer, you’ll be granted access when you schedule your next visit. If you’d like to get set up sooner, just let us know—we’re happy to help!
+Starting July 1, 2025, we will no longer use ChARm for new appointments, messaging, or document sharing. The schedluer below is already routed through Practice Better, nothing to worry about here. If you’ve had a visit within the last 6 months, you’ll receive an email invitation soon to activate your new **Practice Better** account. If it’s been longer, you’ll be granted access when you schedule your next visit. If you’d like to get set up sooner, just let us know—we’re happy to help!
 
 Here's what you need to know:
 
@@ -47,6 +47,7 @@ Here's what you need to know:
 - If you have an upcoming appointment, we’ll ensure everything is transferred and easy to access.
 - Old records will remain secure and accessible, and we can send you copies as needed.
 - You can still message us through Charm until July 1st, 2025.
+- Any bookings made below, are already taken care of.
 
 We’re here to make the transition smooth and simple. If you need help activating your new account or have any questions, just reach out — we’re happy to assist!
 
