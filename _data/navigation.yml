@@ -20,6 +20,6 @@ nav:
   - title: "Patient Portal"
     redirect: https://blossomwellness.practicebetter.io/#/signin
 
-  - title: "OLD Portal"
+  - title: "Previous Portal"
     redirect: https://phr.charmtracker.com/login.sas?FACILITY_ID=3b031348cbc6916e236dc9e6cd06457ba04fd550fb7a9f132e62fe42203ae47d7c54d4b9c6616d57
 
