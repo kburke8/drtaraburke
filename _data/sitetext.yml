@@ -105,12 +105,7 @@ faq:
   - question: Can I still access my records in Charm?
     answer: |
       <p>
-      Yes! While we transition to Practice Better, you can still access your past records in Charm. You can log in to the Charm patient portal using the link below:
-      </p>
-      <p>
-      <a href="https://phr.charmtracker.com/login.sas?FACILITY_ID=3b031348cbc6916e236dc9e6cd06457ba04fd550fb7a9f132e62fe42203ae47d7c54d4b9c6616d57" target="_blank" rel="noopener noreferrer">
-      Access the Charm Patient Portal
-      </a>
+      Yes! While we transition to Practice Better, you can still access your past records in Charm. You can log in to the Charm patient portal using the link at the top of the page.
       </p>
   
 contact:
