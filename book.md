@@ -39,7 +39,7 @@ This new platform offers:
 - Integrated video calls and secure messaging
 - Better organization for your health goals and action plans
 
-Starting July 1, 2025, we will no longer use ChARm for new appointments, messaging, or document sharing. The schedluer below is already routed through Practice Better, nothing to worry about here. If you’ve had a visit within the last 6 months, you’ll receive an email invitation soon to activate your new **Practice Better** account. If it’s been longer, you’ll be granted access when you schedule your next visit. If you’d like to get set up sooner, just let us know—we’re happy to help!
+Starting July 1, 2025, we will no longer use ChARm for new appointments, messaging, or document sharing. The scheduler below is already routed through Practice Better, nothing to worry about here. If you’ve had a visit within the last 6 months, you’ll receive an email invitation soon to activate your new **Practice Better** account. If it’s been longer, you’ll be granted access when you schedule your next visit. If you’d like to get set up sooner, just let us know—we’re happy to help!
 
 Here's what you need to know:
 
