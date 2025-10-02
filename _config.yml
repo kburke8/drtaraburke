@@ -47,3 +47,4 @@ markdown: kramdown
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-redirect-from
